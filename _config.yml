@@ -33,6 +33,8 @@ header_pages:
   - projects.html 
   - resume.html
   - archive.html
+  
+home_post_limit: 3
 
 defaults:
   - scope:
