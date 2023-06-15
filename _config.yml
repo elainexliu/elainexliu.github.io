@@ -11,7 +11,7 @@ description: "elaine's little attic library"
 linkedin_username: elainexliu
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: elainexliu
 #pinterest_username: username
 youtube_username: elainexliu
 
@@ -40,9 +40,9 @@ plugins:
   
 home_post_limit: 3
 
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
+# defaults:
+#   - scope:
+#       path: ""
+#       type: post
+#     values:
+#       tags: Other
