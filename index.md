@@ -17,6 +17,7 @@
             <li><p>Spearheaded IoT systems and EE work at Enventys Partners</p></li>
             <li><p>Made identifying hereditary cataracts easier with ML research at UNC Wilmington</p></li>
             <li><p>Learned <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">how to make almost anything</a> at FabAcademy</p></li>
+            <li><p>[Full resume](assets/resume.pdf)</p></li>
           </ul>
         <h2>some projects</h2>
         <h2>for fun</h2>
