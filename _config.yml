@@ -32,7 +32,7 @@ titles_from_headings:
 header_pages:
   - projects.html 
   - resume.html
-  - archive.html
+  - archive.md
   
 plugins:
   - jekyll-feed
