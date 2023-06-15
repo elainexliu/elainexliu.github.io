@@ -34,6 +34,10 @@ header_pages:
   - resume.html
   - archive.html
   
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  
 home_post_limit: 3
 
 defaults:
