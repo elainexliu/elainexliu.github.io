@@ -30,7 +30,7 @@ titles_from_headings:
   collections: true
   
 header_pages:
-  - projects.html 
+  - projects.md
   - resume.html
   - archive.md
   
