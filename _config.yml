@@ -25,9 +25,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-titles_from_headings:
-  strip_title: true
-  collections: true
+# titles_from_headings:
+#   strip_title: true
+#   collections: true
   
 header_pages:
   - projects.md
