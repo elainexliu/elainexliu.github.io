@@ -33,6 +33,7 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   
 home_post_limit: 3
 
