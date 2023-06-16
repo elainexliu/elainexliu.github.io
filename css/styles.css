@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Manrope');
+/* @import url('https://fonts.googleapis.com/css?family=Manrope'); */
+@import url('https://fonts.googleapis.com/css?family=Inter:wght@100;200;300;400;500;600&display=swap');
 /* body {
     margin: 70px auto;
     width: 55%;
@@ -50,7 +51,7 @@
 .p a{
     text-decoration: none;
     color: black;
-    font-family: 'Manrope', 'sans-serif';
+    font-family: 'Inter', 'sans-serif';
 }
 
 .p a:hover{
@@ -63,18 +64,18 @@
  */
 h1 {
     font-size: 40px;
-    font-family: 'Manrope', 'sans-serif';
+    font-family: 'Inter', 'sans-serif';
     color: #14304f;
     font-weight: 800
 }
 h2 {
     font-size: 1.1em;
-    font-family: 'Manrope', 'sans-serif';
+    font-family: 'Inter', 'sans-serif';
     color: #14304f;
     font-weight: 700
 }
 p {
-    font-family: 'Manrope', 'sans-serif';
+    font-family: 'Inter', 'sans-serif';
     font-size: 13px;
     line-height: 1em;
     font-weight: 500
