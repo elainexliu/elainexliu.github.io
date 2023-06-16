@@ -75,8 +75,8 @@
 /*   margin-left: -25%; //centers the image */
 /*   height: 100%; */
   max-height: 25%;
-  max-width: 25%;
-/*   width: auto; */
+/*   max-width: 25%; */
+  width: auto;
 }
 
 h1 {
