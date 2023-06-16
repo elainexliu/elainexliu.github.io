@@ -13,7 +13,9 @@ layout: home
   <link rel="stylesheet" href="../css/home.css">
 </head>
 <body>
-  <img src="/assets/pics/headshot.jpg" alt="me">
+  <div class="image-cropper">
+    <img src="/assets/pics/headshot.jpg" alt="me" class="profile-pic">
+  </div>
   <h1>Elaine Liu</h1>
       <p>Hi! I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm interested in tech (IoT, AI/ML/CV, MEMS) solutions for health and safety applications. I'm also curious about how ethics and political philosophy guide the way we think about and navigate technology and entrepreneurship. </p>
