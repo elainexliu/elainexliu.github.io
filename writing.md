@@ -1,6 +1,6 @@
 ---
 layout: page
-title: my basement library
+title: writing
 ---
 
 {% for tag in site.tags %}
