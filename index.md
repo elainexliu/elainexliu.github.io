@@ -17,10 +17,10 @@ layout: home
     <img src="/assets/pics/headshot.jpg" alt="me" class="profile-pic">
   </div>
   <div class="title">
-    <h1>Elaine Liu</h1>
+    <h1>Hey, I'm Elaine!</h1>
   </div>
-    <p>Hi! I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
-    <p>I'm interested in tech (IoT, AI/ML/CV, MEMS) solutions for health and safety applications. I'm also curious about how ethics and political philosophy guide the way we think about and navigate technology and entrepreneurship. </p>
+    <p>I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
+    <p>I'm passionate about tech (IoT, AI/ML/CV, MEMS) solutions for health and safety applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
   <h2>now</h2>
       <ul>
       <li><p>Deep Learning at VIA Technologies in Taiwan. Pushing myself to learn as much as I can these next few months.</p></li>
