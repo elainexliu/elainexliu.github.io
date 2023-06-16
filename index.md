@@ -10,7 +10,7 @@ layout: home
 
 
 <head>
-  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="stylesheet" href="../css/home.css">
 </head>
 <body>
   <img src="/assets/pics/headshot.jpg" alt="me">
