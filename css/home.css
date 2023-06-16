@@ -63,8 +63,8 @@
 }
  */
 .image-cropper {
-    max-width: 40%;
-    max-height: 40%;
+    width: 100px;
+    height: 100px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
