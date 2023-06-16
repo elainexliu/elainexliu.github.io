@@ -28,7 +28,7 @@ youtube_username: elainexliu
 header_pages:
   - projects.md
   - resume.html
-  - writing.md
+  - archive.md
   
 plugins:
   - jekyll-feed
