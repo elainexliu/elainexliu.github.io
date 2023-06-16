@@ -64,6 +64,8 @@
  */
 img {
   border-radius: 50%;
+  max-width: 40%;
+  max-height: 40%
 }
 h1 {
     font-size: 40px;
