@@ -1,6 +1,6 @@
 ---
 layout: page
-title: writing
+title: archive
 ---
 
 {% for tag in site.tags %}
