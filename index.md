@@ -23,6 +23,6 @@
         <h2>for fun</h2>
           <p>In my free time, I'm the biggest fan of sunsets and love to oil paint and sketch! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
         <h2>some thoughts</h2>
-          <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. here's my little attic library:</p>
+          <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. here's my little basement library:</p>
   </body>
 </html>
