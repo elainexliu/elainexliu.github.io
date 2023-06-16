@@ -69,6 +69,9 @@
     overflow: hidden;
     border-radius: 50%;
 } */
+.image-cropper{
+    padding-bottom:50px;
+}
 .profile-pic {
   display: inline;
   margin: 0 auto;
