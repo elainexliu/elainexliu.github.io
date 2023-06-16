@@ -28,7 +28,7 @@ titles_from_headings:
 header_pages:
   - projects.md
   - resume.html
-  - archive.md
+  - writing.md
   
 plugins:
   - jekyll-feed
