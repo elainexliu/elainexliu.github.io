@@ -17,13 +17,13 @@ youtube_username: elainexliu
 
 # rss: rss
 
-# kramdown:
-#   syntax_highlighter_opts:
-#     disable: true
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
-# titles_from_headings:
-#   strip_title: true
-#   collections: true
+titles_from_headings:
+  strip_title: true
+  collections: true
   
 header_pages:
   - projects.md
@@ -37,9 +37,9 @@ plugins:
   
 home_post_limit: 3
 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: post
-#     values:
-#       tags: Other
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
