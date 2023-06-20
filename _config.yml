@@ -29,6 +29,9 @@ header_pages:
   - projects.md
   - resume.html
   - writing.md
+
+collections:
+  - projects
   
 plugins:
   - jekyll-feed
