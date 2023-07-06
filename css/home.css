@@ -79,7 +79,8 @@
   max-width: 27%;
   max-height: 27%;
   border-radius: 50%;
-  padding-left: 10px
+  padding-left: 10px;
+  border: 5px solid #14304f
 }
 /* .title{
   padding-top: 75px;
