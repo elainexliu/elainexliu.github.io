@@ -34,7 +34,7 @@ layout: home
       <li><p>Learned <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">how to make almost anything</a> at FabAcademy</p></li>
       </ul>
   <h2>some projects</h2>
-      <p>I've built some things! Click <a href = "https://elainexliu.github.io/projects.html"/>here</a> to see some of them.</p>
+      <p>I've built some things! Click <a href = "https://elainexliu.github.io/projects.html">here</a> to see some of them.</p>
   <h2>for fun</h2>
       <p>In my free time, I'm the biggest fan of sunsets and love to <a href= "https://www.instagram.com/elaineliuart/">oil paint and sketch</a>! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
   <h2>some thoughts</h2>
