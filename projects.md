@@ -13,7 +13,7 @@ title: projects
 {% endfor %} -->
 
 {% for tag in site.tags %}
-  {% if tag == "Project" %}
+  {% if tag == "project" %}
     <h3>{{ tag[0] }}</h3>
     <ul>
       {% for post in tag[1] %}
