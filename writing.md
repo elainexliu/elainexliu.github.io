@@ -11,4 +11,5 @@ title: writing
         <li><a href="{{ post.url }}">{{ post.title }}</a></li> //{{ post.date | date: "%B %Y" }} - 
       {% endfor %}
     </ul>
+  {% endif %}
 {% endfor %}
