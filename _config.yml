@@ -43,6 +43,6 @@ home_post_limit: 3
 defaults:
   - scope:
       path: ""
-      type: post
+      type: post project
     values:
       tags: other project
