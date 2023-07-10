@@ -45,4 +45,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: other
+      tags: other projects
