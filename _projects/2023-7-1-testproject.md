@@ -1,5 +1,5 @@
 ---
-tags: project
+tags: projects
 ---
 
 ## hey! this is a test project
