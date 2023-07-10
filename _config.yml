@@ -30,8 +30,11 @@ header_pages:
   - resume.html
   - writing.md
 
+# collections:
+#   - projects
 collections:
-  - projects
+  projects:
+    output: true
   
 plugins:
   - jekyll-feed
