@@ -27,7 +27,6 @@ titles_from_headings:
   
 header_pages:
   - projects.md
-  # - resume.html
   - writing.md
 
 collections:
