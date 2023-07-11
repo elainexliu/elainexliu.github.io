@@ -21,14 +21,14 @@ layout: default
     {% include sharelinks.html %}
   </div>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-    {% include navlinks.html %}
-  </div>
-
   <div class="post-image">
     <p><a href="/assets/pics/project_pics/lantern.jpg">test</a></p>
     <img src="/assets/pics/project_pics/{{ post-title }}" alt="project image" style="width:128px;height:128px;">
+  </div>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+    {% include navlinks.html %}
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
