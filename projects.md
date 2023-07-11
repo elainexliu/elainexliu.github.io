@@ -23,7 +23,7 @@ title: projects
 
 <ul>
   {% for project in site.categories.projects %}
-    <li>{{ project.url }}</li>
+    <li><a href = "{{ project.url }}">hi</li>
     <!-- <ul> -->
       <!-- {% for post in tag[1] %} -->
     <!-- <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li> -->
