@@ -48,4 +48,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: other thoughts projects
+      tags: other thoughts
