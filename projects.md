@@ -23,10 +23,10 @@ title: projects
 
 <ul>
   {% for project in site.categories.projects %}
-    <!-- <h3>{{ project.title }}</h3> -->
+    <li>{{ project.title }}</li>
     <!-- <ul> -->
       <!-- {% for post in tag[1] %} -->
-    <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
+    <!-- <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li> -->
       <!-- {% endfor %} -->
     <!-- </ul> -->
   {% endfor %}
