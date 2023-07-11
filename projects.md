@@ -25,10 +25,5 @@ I love to build and create things. Here are some of my creative endeavors, rangi
 <ul>
   {% for project in site.categories.projects %}
     <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
-     <ul>
-      {% for post in tag[1] %}
-    <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
-      {% endfor %}
-    </ul>
   {% endfor %}
 </ul> 
