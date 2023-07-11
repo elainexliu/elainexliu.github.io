@@ -18,13 +18,14 @@ I love to build and create things. Here are some of my creative endeavors, rangi
     <h3><a href = "http://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">fab academy projects</a></h3>
   </div>
 </div>
+{: .text-center}
 
 ## some of my favorites
 
 <ul>
   {% for project in site.categories.projects %}
     <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
-     <ul> -->
+     <ul>
       {% for post in tag[1] %}
     <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
       {% endfor %}
