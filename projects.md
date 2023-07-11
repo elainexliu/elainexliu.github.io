@@ -22,7 +22,7 @@ title: projects
 {% endfor %} -->
 
 <ul>
-  {% for project in site.projects %}
+  {% for project in site.categories.projects %}
     <!-- <h3>{{ project[0] }}</h3> -->
     <!-- <ul> -->
       <!-- {% for post in tag[1] %} -->
@@ -30,5 +30,5 @@ title: projects
       <!-- {% endfor %} -->
     <!-- </ul> -->
   {% endfor %}
-</ul>
+</ul> 
 
