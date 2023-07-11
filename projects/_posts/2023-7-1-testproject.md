@@ -1,5 +1,6 @@
 ---
 project-type: fundamentals 
+type: project
 ---
 ## hey! this is a test project
 
