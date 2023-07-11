@@ -16,7 +16,7 @@ I love to build and create things. Here are some of my creative endeavors, rangi
   </div>
   <div class = "fabacademy-digital-portfolio">
     <h3><a href = "http://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">Fab Academy Projects</a></h3>
-  </div<>
+  </div>
 
 ## some of my favorites
 </div>
