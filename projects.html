@@ -1,0 +1,64 @@
+<!-- ---
+layout: page
+title: projects
+---
+
+I love to build and create things. Here are some of my creative endeavors, ranging from simple projects made for fun to gadgets made to solve daily inconveniences to well-integrated products made to solve real world problems.
+
+## digital portfolios
+
+<div class = "digital-portfolios">
+  <p>
+  Here are two digital portfolios you can check out to see more in-depth documentation of my work!
+  </p>
+  <div class = "high-school-digital-portfolio">
+    <h3><a href = "https://sites.google.com/charlottelatin.org/elaineliudigitalportfolio/home">high school projects</a></h3>
+  </div>
+  <div class = "fabacademy-digital-portfolio">
+    <h3><a href = "http://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">fab academy projects</a></h3>
+  </div>
+</div>
+
+## some of my favorites
+
+<ul>
+  {% for project in site.categories.projects %}
+    <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
+     <ul> -->
+      <!-- {% for post in tag[1] %} -->
+    <!-- <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li> -->
+      <!-- {% endfor %} -->
+    <!-- </ul> -->
+  <!-- {% endfor %}
+</ul>  -->
+
+<h1>projects</h1>
+
+I love to build and create things. Here are some of my creative endeavors, ranging from simple projects made for fun to gadgets made to solve daily inconveniences to well-integrated products made to solve real world problems.
+
+<h3>digital portfolios</h3>
+
+<div class = "digital-portfolios">
+  <p>
+  Here are two digital portfolios you can check out to see more in-depth documentation of my work!
+  </p>
+  <div class = "high-school-digital-portfolio">
+    <h3><a href = "https://sites.google.com/charlottelatin.org/elaineliudigitalportfolio/home">high school projects</a></h3>
+  </div>
+  <div class = "fabacademy-digital-portfolio">
+    <h3><a href = "http://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">fab academy projects</a></h3>
+  </div>
+</div>
+
+<h3>some of my favorites</h3>
+
+<ul>
+  {% for project in site.categories.projects %}
+    <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
+    <!-- <ul> -->
+      <!-- {% for post in tag[1] %} -->
+    <!-- <li><a href="{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li> -->
+      <!-- {% endfor %} -->
+    <!-- </ul> -->
+  {% endfor %}
+</ul> 

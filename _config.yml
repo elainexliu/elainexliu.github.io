@@ -26,7 +26,7 @@ titles_from_headings:
   collections: true
   
 header_pages:
-  - projects.md
+  - projects.html
   - resume.html
   - writing.md
 
@@ -49,3 +49,4 @@ defaults:
       type: post
     values:
       tags: other thoughts
+      project-type: apps hardware fundamentals
