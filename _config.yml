@@ -26,12 +26,10 @@ titles_from_headings:
   collections: true
   
 header_pages:
-  - projects.html
-  - resume.html
+  - projects.md
+  # - resume.html
   - writing.md
 
-# collections:
-#   - projects
 collections:
   projects:
     output: true
