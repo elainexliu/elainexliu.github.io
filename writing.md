@@ -3,7 +3,7 @@ layout: page
 title: writing
 ---
 
-{% for tag in site.tags %}
+<!-- {% for tag in site.tags %}
 
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -11,4 +11,10 @@ title: writing
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
+
+<ul>
+  {% for post in site.categories.posts %}
+    <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+  {% endfor %}
+</ul>
