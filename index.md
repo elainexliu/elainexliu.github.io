@@ -20,7 +20,7 @@ layout: home
     <h1>Hey, I'm Elaine!</h1>
   </div>
     <p>I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
-    <p>I'm passionate about tech (IoT/embedded systems, AI, MEMS) solutions for health and safety applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
+    <p>I'm passionate about creating tech solutions that uplift people. Specifically, I'm interested in  IoT/embedded systems, AI, and MEMS for social good and health applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
   <h2>now</h2>
       <ul>
       <li><p>Deep Learning at VIA Technologies in Taiwan. Pushing myself to learn as much as I can these next few months.</p></li>
