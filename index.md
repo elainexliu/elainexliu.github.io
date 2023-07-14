@@ -38,7 +38,7 @@ layout: home
       <p>I've built some things!</p>
       <ul>
         {% for project in site.categories.projects %}
-          <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
+          <li><a href = "{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
       </ul> 
 
