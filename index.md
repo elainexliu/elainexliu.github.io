@@ -46,5 +46,9 @@ layout: home
       <p>In my free time, I'm the biggest fan of sunsets and love to <a href= "https://www.instagram.com/elaineliuart/">oil paint and sketch</a>! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
   <h2>some thoughts</h2>
       <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. Here's my little basement library:</p>
-  <p> </p>
+      <ul>
+        {% for post in site.categories.posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
 </body>
