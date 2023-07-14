@@ -13,12 +13,13 @@ I love to build and create things. Here are some of my creative endeavors, rangi
   </p>
   <div class = "high-school-digital-portfolio">
     <h3><a href = "https://sites.google.com/charlottelatin.org/elaineliudigitalportfolio/home">high school projects</a></h3>
+    <p>This digital portfolio shows my documentation for all the projects I have made for my school engineering classes. check it out for some good fun memories.</p>
   </div>
   <div class = "fabacademy-digital-portfolio">
     <h3><a href = "http://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">fab academy projects</a></h3>
+    <p>This portfolio showcases all the work I did for Fab Academy, a 20-week, professional level engineering course taught by MIT professor Neil Gershenfeld. I did it less than a year into my engineering adventure, so it was a firehose, to say the least. Learned so much.</p>
   </div>
 </div>
-{: .text-center}
 
 ## some of my favorites
 
