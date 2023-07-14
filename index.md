@@ -35,7 +35,7 @@ layout: home
       <li><p>Learned <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">how to make almost anything</a> at FabAcademy</p></li>
       </ul>
   <h2>some projects</h2>
-      <p>I've built some things!
+      <p>I've built some things!</p>
       <ul>
         {% for project in site.categories.projects %}
           <li><a href = "{{ project.url }}">{{ project.date | date: "%B %Y" }} - {{ project.title }}</a></li>
