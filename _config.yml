@@ -15,8 +15,6 @@ instagram_username: elainexliu
 #pinterest_username: username
 youtube_username: elainexliu
 
-rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
@@ -34,11 +32,8 @@ collections:
     output: true
   
 plugins:
-  # - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
-home_post_limit: 3
 
 defaults:
   - scope:
