@@ -32,7 +32,6 @@ collections:
     output: true
   
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
 
 defaults:
