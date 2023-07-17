@@ -16,7 +16,7 @@ layout: home
   <div class="image-cropper">
     <img src="/assets/pics/headshot.jpg" alt="me" class="profile-pic">
   </div>
-  <div class="home-page" style="width:970px; margin:0 auto;">
+  <div class="home-page" style="width:700px; margin:0 auto;">
     <div class="title">
       <h1>Hey, I'm Elaine!</h1>
     </div>
