@@ -31,7 +31,7 @@ layout: home
     <h2>previously</h2>
         <ul>
         <li><p>Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute</p></li>
-        <li><p>Made fire alarm detection products and data management IoT systems at Enventys Partners</p></li>
+        <li><p>Made fire alarm detection products and IoT data management systems at Enventys Partners</p></li>
         <li><p>Predicted hereditary cataracts with ML research at UNC Wilmington</p></li>
         <li><p>Learned <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">how to make almost anything</a> at FabAcademy</p></li>
         </ul>
