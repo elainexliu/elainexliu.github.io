@@ -30,32 +30,32 @@ After talking with my family, I decided that I wanted to make an adjustable phon
 
 Sketching and planning out the object was extremely important. If I did not measure everything out well, I knew that it would be a pain to fix everything after I got to Fusion 360; I knew that this object would require a lot of precise measurements in order for everything to fit well together, and so I spent time before designing on Fusion first sketching out the design on paper. I sketched both side views and diagonal views of the object, and after labeling measurements and basic designs, I was ready to go ahead with Fusion 360.
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-sketch.jpg)
+![foldable-sketch](/assets/pics/project_pics/foldable/foldable-sketch.jpg)
 
 ### modeling with fusion360
 
 Making this phone stand was rather difficult, especially as I was new with Fusion. After making the base however, I got the feel of how the software worked. For each part of the object, I started with a sketch on the YZ plane and extruded whatever was needed. These sketches mirrored the side views I had drawn on paper. I Afterwards, I made a rectangular sketch on the XY plane and extruded downwards until the bottom of the extruded object, cutting out any parts of the object I did not need. I then added the knobs on the hook part of the phone stand by sketching out circles and extruding them. Finally, I filleted everything except for the circular parts on the base of the phone stand. 
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-model1.jpg)
+![foldable-model1](/assets/pics/project_pics/foldable/foldable-model1.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-model2.jpg)
+![foldable-model1](/assets/pics/project_pics/foldable/foldable-model2.jpg)
 
 ### 3d printing and machine use
 
 For each part of the phone stand, I printed it on a low speed setting with a brim and support; each part took around 2 hours. After each part printed, I used tweezers to snap off the brim, and I used sand paper for any uneven sharp edges. For the support, I first used a drill bit to drill out most of the support, but then later realized I could use tweezers to squeeze it out. The process took a little while, but in the end, each part fit well with each other, and according to the measurements that I had planned.
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print1.jpg)
+![foldable-print1](/assets/pics/project_pics/foldable/foldable-print1.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print2.jpg)
+![foldable-print2](/assets/pics/project_pics/foldable/foldable-print2.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print3.jpg)
+![foldable-print3](/assets/pics/project_pics/foldable/foldable-print3.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print4.jpg)
+![foldable-print4](/assets/pics/project_pics/foldable/foldable-print4.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print5.jpg)
+![foldable-print5](/assets/pics/project_pics/foldable/foldable-print5.jpg)
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print6.jpg)
+![foldable-print6](/assets/pics/project_pics/foldable/foldable-print6.jpg)
 
 I am rather pleased with how this project turned out, and really enjoyed making it!
 
-![foldable-box-design](/assets/pics/project_pics/foldable/foldable-print7.jpg)
+![foldable-print7](/assets/pics/project_pics/foldable/foldable-print7.jpg)
