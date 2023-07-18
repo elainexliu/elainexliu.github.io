@@ -34,6 +34,7 @@ layout: home
         <li><p>Made fire alarm detection products and IoT data management systems at Enventys Partners</p></li>
         <li><p>Predicted hereditary cataracts with ML research at UNC Wilmington</p></li>
         <li><p>Learned <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">how to make almost anything</a> at FabAcademy</p></li>
+        <li><p>Introduced engineering and reframed the field to a new wave of amazing young girls at sheMakes</p></li>
         </ul>
     <h2>some projects</h2>
         <p>I've built some things!</p>
