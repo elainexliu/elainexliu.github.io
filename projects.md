@@ -5,7 +5,7 @@ title: projects
 
 I love to build and create things. Here are some of my creative endeavors, ranging from simple projects made for fun to gadgets made to solve daily inconveniences to well-integrated products made to solve real world problems.
 
-# digital portfolios
+## digital portfolios
 
 <div class = "digital-portfolios">
   <p>
