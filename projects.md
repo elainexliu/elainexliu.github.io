@@ -21,7 +21,7 @@ I love to build and create things. Here are some of my creative endeavors, rangi
   </div>
 </div>
 
-<h2><a href = "https://github.com/elainexliu">my github</a></h3>
+<h2><a href = "https://github.com/elainexliu">my github</a></h2>
 <p>I've been building more now that I have more time over the summer! Check out what I've been doing.</p>
 
 ## some of my favorites
