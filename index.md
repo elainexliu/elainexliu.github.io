@@ -39,12 +39,12 @@ layout: home
     <h2>some projects</h2>
         <p>I've built some things!</p>
         <ul>
-          <li><a href = "https://elainexliu.github.io/projects/2020/07/20/navimap.html">navimap</a></li>
-          <li><a href = "https://elainexliu.github.io/projects/2022/04/15/deng-long.html">deng long</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2020/07/20/navimap.html">navimap: an IoT interactive capacitive touch copper map</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2022/04/15/deng-long.html">deng long: a carbon monoxide sensing lamp</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2021/02/22/stance.html">stance: a posture app</a></li>
-          <li><a href = "https://elainexliu.github.io/projects/2020/05/10/solar.html">solar</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2020/05/10/solar.html">solar: an exploration of capacitive touch</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2019/11/15/foldable-phone-stand.html">foldable phone stand</a></li>
-          <li><a href = "https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html">labyrinth box</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html">labyrinth: a new take on a box</a></li>
           <li><a href = "https://elainexliu.github.io/projects.html">more</a></li>
         </ul> 
     <h2>for fun</h2>
