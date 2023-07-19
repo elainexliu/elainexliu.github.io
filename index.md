@@ -39,9 +39,13 @@ layout: home
     <h2>some projects</h2>
         <p>I've built some things!</p>
         <ul>
-          {% for project in site.categories.projects %}
-            <li><a href = "{{ project.url }}">{{ project.title }}</a></li>
-          {% endfor %}
+          <li><a href = "https://elainexliu.github.io/projects/2020/07/20/navimap.html">navimap</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2022/04/15/deng-long.html">deng long</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2021/02/22/stance.html">stance: a posture app</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2020/05/10/solar.html">solar</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2019/11/15/foldable-phone-stand.html">foldable phone stand</a></li>
+          <li><a href = "https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html">labyrinth box</a></li>
+          <li><a href = "https://elainexliu.github.io/projects.html">more</a></li>
         </ul> 
     <h2>for fun</h2>
         <p>In my free time, I'm the biggest fan of sunsets and love to <a href= "https://www.instagram.com/elaineliuart/">oil paint and sketch</a>! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
