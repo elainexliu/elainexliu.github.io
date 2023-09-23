@@ -22,14 +22,16 @@ layout: home
     </div>
       <p>I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm passionate about creating tech solutions that uplift people. Specifically, I'm interested in  IoT/embedded systems, AI, and MEMS for social good and health applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
-    <h2>now</h2>
+    <h2><a href="assets/resume.pdf">now</a></h2>
         <ul>
-        <li><p>Optimizing vehicle computer vision models at VIA + exploring Taiwan</p></li>
-        <li><p>Moving things forward at Prod</p></li>
+        <li><p>Scheming and Brewing</p></li>
+        <li><p>Researching conformable transdermal drug delivery methods @ Conformable Decoders in the Media Lab</p></li>
         <li><p>Venture Partner at Contrary Capital</p></li>
         </ul>
     <h2>previously</h2>
         <ul>
+        <li><p>Schemed at Prod</p></li>
+        <li><p>Optimized vehicle computer vision models at VIA + explored Taiwan</p></li>
         <li><p>Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute</p></li>
         <li><p>Made fire alarm detection products and IoT data management systems at Enventys Partners</p></li>
         <li><p>Predicted hereditary cataracts with ML research at UNC Wilmington</p></li>
@@ -45,7 +47,7 @@ layout: home
           <li><a href = "https://elainexliu.github.io/projects/2020/05/10/solar.html">solar: an exploration of capacitive touch</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2019/11/15/foldable-phone-stand.html">foldable phone stand</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html">labyrinth: a new take on a box</a></li>
-          <li><a href = "https://elainexliu.github.io/projects.html">more</a></li>
+          <li><a href = "https://elainexliu.github.io/projects.html">more...</a></li>
         </ul> 
     <h2>for fun</h2>
         <p>In my free time, I'm the biggest fan of sunsets and love to <a href= "https://www.instagram.com/elaineliuart/">oil paint and sketch</a>! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
