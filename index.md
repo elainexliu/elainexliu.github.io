@@ -13,7 +13,7 @@ layout: home
   <link rel="stylesheet" href="../css/home.css">
 </head>
 <body>
-  <div class="home-page" style="width:80%; margin:0 auto;">
+  <div class="home-page" style="width:85%; margin:0 auto;">
     <div class="image-cropper">
       <img src="/assets/pics/headshot.jpg" alt="me" class="profile-pic">
     </div>
