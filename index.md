@@ -22,7 +22,7 @@ layout: home
     </div>
       <p>I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm passionate about creating tech solutions that uplift people. Specifically, I'm interested in  IoT/embedded systems, AI, and MEMS for social good and health applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
-    <h2><a href="assets/resume.pdf">now</a></h2>
+    <h2><a href="assets/Elaine_Liu_Resume.pdf">now</a></h2>
         <ul>
         <li><p>Scheming and Brewing</p></li>
         <li><p>Researching conformable transdermal drug delivery methods @ Conformable Decoders in the Media Lab</p></li>
