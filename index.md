@@ -20,7 +20,7 @@ layout: home
     <div class="title">
       <h1>Hey, I'm Elaine!</h1>
     </div>
-      <p>I'm a second-year undergrad at MIT studying EECS from Charlotte, NC.</p>
+      <p>I'm an undergrad student at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm passionate about creating tech solutions that uplift people. Specifically, I'm interested in  IoT/embedded systems, AI, and MEMS for social good and health applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
     <h2>now</h2>
         <ul>
