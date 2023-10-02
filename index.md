@@ -41,6 +41,7 @@ layout: home
     <h2>some projects</h2>
         <p>I've built some things!</p>
         <ul>
+          <li><a href = "https://github.com/elaineliuwang/agora_hackMIT">agora: a speech emotion-recognition decision-making web app</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2020/07/20/navimap.html">navimap: an IoT interactive capacitive touch copper map</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2022/04/15/deng-long.html">deng long: a carbon monoxide sensing lamp</a></li>
           <li><a href = "https://elainexliu.github.io/projects/2021/02/22/stance.html">stance: a posture app</a></li>
