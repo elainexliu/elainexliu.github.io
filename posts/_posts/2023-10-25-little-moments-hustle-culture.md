@@ -4,6 +4,8 @@ tags: thoughts
 
 ## An homage to the little moments, and my thoughts on hustle culture
 
+tldr: work hard, but stay balanced in an obsessive way. work extremely hard when you work, but play and actively enjoy moments of the day. overly obsessive hustle culture is unhealthy. and, surprise surprise, having unhealthy inputs will lead to unhealthy outputs.
+
 I just came across an Instagram post by Zach Pogrob during my lunch break that had me nodding at first. The post looks like a reformatted-just-for-Instagram tweet that has a sentence on each line. "Run. Lift. Fast." Yeah, lifting and running are fun! And then I keep reading and it says "Get up early. Stay up late." ???? Alright? And then I keep going. "Sleep on floors. Wake up on Forbes." (bro is freestyling at this  point).  "Follow a path without steps... Be present in everything. Be relentless in everything." I'm nodding a little again with a confused look on my face.
 
 And then I read, "The Obsessed Life ignores the word 'balance.' haha

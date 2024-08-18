@@ -15,21 +15,22 @@ layout: home
 <body>
   <div class="home-page" style="width:100%; margin:0 auto;">
     <div class="image-cropper">
-      <img src="/assets/pics/headshot.jpg" alt="me" class="profile-pic">
+      <img src="/assets/pics/pfp.jpg" alt="me" class="profile-pic">
     </div>
     <div class="title">
       <h1>Hey, I'm Elaine!</h1>
     </div>
       <p>I'm an undergrad student at MIT studying EECS from Charlotte, NC.</p>
-      <p>I'm passionate about creating tech solutions that uplift people. Specifically, I'm interested in  IoT/embedded systems, AI, and MEMS for social good and health applications. I also think a lot about how ethics and political philosophy guide the way we all think about and navigate technology and entrepreneurship. </p>
+      <p>I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, playgrounds (or the lack thereof for adults), and <a href="https://elainexliu.github.io/writing.html">other stuff</a>. </p>
     <h2>now</h2>
         <ul>
-        <li><p>Scheming and Brewing</p></li>
-        <li><p>Researching conformable transdermal drug delivery methods @ Conformable Decoders in the Media Lab</p></li>
+        <li><p>Scheming and Brewing in health</p></li>
+        <li><p>Researching conformable drug delivery methods @ Conformable Decoders in the Media Lab</p></li>
         <li><p>Venture Partner at Contrary Capital</p></li>
         </ul>
     <h2>previously</h2>
         <ul>
+        <li><p>Learned so much at Thrive</p></li>
         <li><p>Schemed at Prod</p></li>
         <li><p>Optimized vehicle computer vision models at VIA + explored Taiwan</p></li>
         <li><p>Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute</p></li>
@@ -51,7 +52,7 @@ layout: home
           <li><a href = "https://elainexliu.github.io/projects.html">more...</a></li>
         </ul> 
     <h2>for fun</h2>
-        <p>In my free time, I'm the biggest fan of sunsets and love to <a href= "https://www.instagram.com/elaineliuart/">oil paint and sketch</a>! Trying to do more digital art too. Also love lifting, going to cafes, and strolling around in libraries.</p>
+        <p>I love sunsets, <a href= "https://www.instagram.com/elaineliuart/">oil painting, and sketching</a>. Trying to do more digital art too. Also love skating (with skateboards), lifting, going to cafes, and strolling around in libraries.</p>
     <h2>some thoughts</h2>
         <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. Here's my little basement library:</p>
         <ul>
