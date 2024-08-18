@@ -1,9 +1,15 @@
 /* @import url('https://fonts.googleapis.com/css?family=Manrope'); */
 @import url('https://fonts.googleapis.com/css?family=Inter:wght@100;200;300;400;500;600&display=swap');
 .home-page {
-    /* margin: 0; */
     max-width: 65%;
-    /* max-width: max-content; */
+    margin: 0 auto;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    gap: 30px; /* Space between image and text */
+    margin-bottom: 30px; /* Space below the header */
 }
 
 .p a{
@@ -17,26 +23,33 @@
     text-decoration: underline;
 }
 
-.image-cropper{
-    padding-top: 10px;
-    padding-bottom: 30px;
-    padding-left: 10px
+.image-cropper {
+    flex-shrink: 0;
+    width: 200px; /* Adjust based on your preferred image size */
+    height: 200px;
 }
+
 .profile-pic {
-  display: inline;
-  margin: 0 auto;
-  max-width: 27%;
-  max-height: 27%;
-  border-radius: 50%;
-  border: 3px solid #14304f
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #14304f;
+}
+
+.header-text {
+    flex: 1;
 }
 
 h1 {
     font-size: 40px;
     font-family: 'Inter', 'sans-serif';
     color: #14304f;
-    font-weight: 700
+    font-weight: 700;
+    margin: 0; /* Removes default margin */
 }
+
 h2 {
     font-size: 25px;
     font-family: 'Inter', 'sans-serif';
@@ -57,4 +70,16 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+/* Media query for mobile responsiveness */
+@media (max-width: 768px) {
+    .title {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .image-cropper {
+        margin-bottom: 20px;
+    }
 }
