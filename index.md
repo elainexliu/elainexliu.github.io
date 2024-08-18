@@ -18,7 +18,7 @@ layout: home
       <img src="/assets/pics/pfp.jpg" alt="me" class="profile-pic">
     </div>
     <div class="title">
-      <h1>Hey, I'm Elaine!</h1>
+      <h1>Hey, I'm Elaine</h1>
     </div>
       <p>I'm an undergrad student at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, playgrounds (or the lack thereof for adults), and <a href="https://elainexliu.github.io/writing.html">other stuff</a>. </p>
