@@ -20,7 +20,7 @@ layout: home
     <div class="title">
       <h1>Hey, I'm Elaine</h1>
     </div>
-      <p>I'm an undergrad student at MIT studying EECS from Charlotte, NC.</p>
+      <p>I'm a student at MIT studying EECS from Charlotte, NC.</p>
       <p>I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, playgrounds (or the lack thereof for adults), and <a href="https://elainexliu.github.io/writing.html">other stuff</a>. </p>
     <h2>now</h2>
         <ul>
@@ -54,11 +54,12 @@ layout: home
     <h2>for fun</h2>
         <p>I love sunsets, <a href= "https://www.instagram.com/elaineliuart/">oil painting, and sketching</a>. Trying to do more digital art too. Also love skating (with skateboards), lifting, going to cafes, and strolling around in libraries.</p>
     <h2>some thoughts</h2>
-        <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. Here's my little basement library:</p>
+        <p>I tend to overthink often; writing lets me get some of those thoughts off my mind.</p>
+        <!-- <p>I tend to overthink often; writing lets me get some of those thoughts off my mind. Here's my little basement library:</p>
         <ul>
           {% for post in site.categories.posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
-        </ul>
+        </ul> -->
   </div>
 </body>
