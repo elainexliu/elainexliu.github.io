@@ -21,7 +21,7 @@ I'm passionate about doing cool things that make people feel good. Specifically,
 
 ## previously
 
-- Worked on GTM strategy, cash burn modeled (modeled how long *** would survive without raising again under different scenarios), and dug deep into BCI and health tech at Thrive
+- Worked on GTM strategy, cash burn modeled for **, and dug deep into BCI and health tech at Thrive
 - Schemed at Prod
 - Optimized vehicle computer vision models at VIA + explored Taiwan
 - Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute
@@ -45,7 +45,7 @@ I've built some things!
 
 ## for fun
 
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Trying to do more digital art too. Also love skating (with skateboards), lifting, going to cafes, and strolling around in libraries.
+I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, improv and laughing, and strolling around in libraries.
 
 ## some thoughts
 

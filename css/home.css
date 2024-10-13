@@ -36,6 +36,7 @@
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid #14304f;
+    margin-bottom: 15px;
 }
 
 .header-text {
