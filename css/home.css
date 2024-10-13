@@ -10,6 +10,7 @@
     align-items: center;
     gap: 30px; /* Space between image and text */
     margin-bottom: 30px; /* Space below the header */
+    margin-top: 15px;
 }
 
 .p a{
@@ -36,7 +37,6 @@
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid #14304f;
-    padding-bottom: 30px;
 }
 
 .header-text {
