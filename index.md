@@ -17,11 +17,11 @@ I'm passionate about doing cool things that make people feel good. Specifically,
 
 - Scheming and Brewing in health
 - Researching conformable drug delivery methods @ Conformable Decoders in the Media Lab
-- Venture Partner at Contrary Capital
+- Venture Partner at Contrary
 
 ## previously
 
-- Learned so much at Thrive
+- Worked on GTM strategy, cash burn modeled (modeled how long *** would survive without raising again under different scenarios), and dug deep into BCI and health tech at Thrive
 - Schemed at Prod
 - Optimized vehicle computer vision models at VIA + explored Taiwan
 - Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute
