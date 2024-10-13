@@ -21,7 +21,7 @@ I'm passionate about doing cool things that make people feel good. Specifically,
 
 ## previously
 
-- Worked on GTM strategy, cash burn modeled for **, and dug deep into BCI and health tech at Thrive
+- Thrive Fellow (GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs at Thrive)
 - Schemed at Prod
 - Optimized vehicle computer vision models at VIA + explored Taiwan
 - Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute
