@@ -3,3 +3,4 @@ tags: thoughts
 ---
 
 ## Side quests
+
