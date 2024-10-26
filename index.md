@@ -45,7 +45,7 @@ I've built some things!
 
 ## side quests
 
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries[.](elainexliu.com/m-port)
+I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries[.](/m-port)
 
 ## some thoughts
 
