@@ -1,5 +1,5 @@
 ---
-title: model portfolio
+title: modeling portfolio
 ---
 
 ![comp card](/assets/pics/modeling_pics/compcard.png)
