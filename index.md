@@ -43,9 +43,9 @@ I've built some things!
 - [labyrinth: a new take on a box](https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html)
 - [more...](https://elainexliu.github.io/projects.html)
 
-## for fun
+## side quests
 
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, improv and laughing, and strolling around in libraries.
+I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries.
 
 ## some thoughts
 

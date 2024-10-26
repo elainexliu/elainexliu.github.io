@@ -29,6 +29,10 @@ I've since realized that he is the every-man in One Piece. His character arc, fr
 
 I've thought a lot about how each of our days builds up who we are. We are the sum of our days. We aren't our thoughts, our plans, what we put in our google calendar to do the next day. We are the sum of minutes and hours in the present. As long as we live those moments moving toward our goals, dreams, and Personal Legend, we are in the process of fulfilling it. It's a nice little reassurance that our goals aren't insurmountable.
 
+### from zoro:
+
+Do the hard stuff in silence.
+
 ### nami and robin:
 
 Stay lit, be badass, stay curious. + Learn about why things are the way they are, and how they've become like this.
