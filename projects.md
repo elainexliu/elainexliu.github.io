@@ -34,7 +34,7 @@ I love to build and create things. Here are some of my creative endeavors, rangi
   </div>
 </div>
 
-## some of my favorites
+## the archives
 
 <ul>
   {% for project in site.categories.projects %}
