@@ -34,7 +34,8 @@ I'm passionate about doing cool things that make people feel good. Specifically,
 
 I've built some things!
 
-- [agora: a speech emotion-recognition decision-making web app](https://github.com/elaineliuwang/agora_hackMIT)
+- [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
+- [agora: a speech emotion-recognition decision-making web app](https://elainexliu.github.io/projects/2023/09/25/agora.html)
 - [navimap: an IoT interactive capacitive touch copper map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
 - [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
 - [stance: a posture app](https://elainexliu.github.io/projects/2021/02/22/stance.html)
@@ -45,11 +46,11 @@ I've built some things!
 
 ## side quests
 
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skating (with skateboards), lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries[.](m-port)
+I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skateboarding, lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries[.](m-port)
 
 ## some thoughts
 
-I tend to overthink often; writing lets me get some of those thoughts off my mind. Here's my little basement library:
+I like to think and write. Here's my little basement library:
 
 {% for post in site.categories.posts %}
 - [{{ post.title }}]({{ post.url }})
