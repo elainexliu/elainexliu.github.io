@@ -13,7 +13,6 @@ I love to build and create things. Here are some of my creative endeavors, rangi
 - [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
 - [cupcake: an automatic batter dispenser machine (team project)](https://elainexliu.github.io/projects/2020/07/01/cupcake-batter.html)
 
-
 ## digital portfolios
 
 <div class = "digital-portfolios">

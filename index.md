@@ -11,7 +11,7 @@ layout: home
 
 I'm a student at MIT studying EECS from Charlotte, NC.
 
-I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, playgrounds (or the lack thereof for adults), and [other stuff](https://elainexliu.github.io/writing.html).
+I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, improv, playgrounds (or the lack thereof for adults), and [other stuff](https://elainexliu.github.io/writing.html).
 
 ## now
 
