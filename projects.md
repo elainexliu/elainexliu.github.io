@@ -5,6 +5,15 @@ title: projects
 
 I love to build and create things. Here are some of my creative endeavors, ranging from simple projects made for fun to gadgets made to solve daily inconveniences to well-integrated products made to solve real world problems.
 
+### some favorites I've worked on!
+
+- [cUSD: a conformable ultrasound device (team research)](https://elainexliu.github.io/projects/2024/12/30/cusd.html)
+- [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
+- [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
+- [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
+- [cupcake: an automatic batter dispenser machine (team project)](https://elainexliu.github.io/projects/2021/02/22/stance.html)
+
+
 ## digital portfolios
 
 <div class = "digital-portfolios">
