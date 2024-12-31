@@ -2,7 +2,7 @@
 project-type: app 
 type: project
 ---
-## remedium
+## remedium: improved outcomes for chemotherapy patients
 #### a web app that helps improve treatment outcomes for chemotherapy patients.
 
 ![remedium](/assets/pics/project_pics/remedium/proto.jpg)
