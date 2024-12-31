@@ -36,7 +36,7 @@ I've built some things!
 
 - [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
 - [agora: a speech emotion-recognition decision-making web app](https://elainexliu.github.io/projects/2023/09/25/agora.html)
-- [navimap: an IoT interactive capacitive touch copper map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
+- [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
 - [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
 - [stance: a posture app](https://elainexliu.github.io/projects/2021/02/22/stance.html)
 - [solar: an exploration of capacitive touch](https://elainexliu.github.io/projects/2020/05/10/solar.html)

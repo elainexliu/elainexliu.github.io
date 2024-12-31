@@ -2,7 +2,7 @@
 project-type: hardware 
 type: project
 ---
-## deng long
+## deng long: a carbon monoxide sensing lamp
 #### a Chinese lantern-inspired carbon monoxide sensor.
 
 ![deng long](/assets/pics/project_pics/denglong/denglongpic.jpg)
