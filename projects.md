@@ -11,7 +11,7 @@ I love to build and create things. Here are some of my creative endeavors, rangi
 - [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
 - [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
 - [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
-- [cupcake: an automatic batter dispenser machine (team project)](https://elainexliu.github.io/projects/2021/02/22/stance.html)
+- [cupcake: an automatic batter dispenser machine (team project)](https://elainexliu.github.io/projects/2020/07/01/cupcake-batter.html)
 
 
 ## digital portfolios
