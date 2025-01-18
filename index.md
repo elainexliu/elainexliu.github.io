@@ -11,7 +11,9 @@ layout: home
 
 I'm a student at MIT studying EECS from Charlotte, NC.
 
-I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love improv, art, ethics, political philosophy, and [other stuff](https://elainexliu.github.io/writing.html).
+I'm passionate about doing cool things that make people feel good. Right now, I'm interested in behavioral econonimcs and embedded systems/circuit design/computer vision for health and consumer tech.
+
+I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube](https://www.youtube.com/@elainexliu), [improv](https://www.instagram.com/roadkillbuffet/), skateboarding, lifting, political philosophy, and strolling around in libraries[.](m-port)
 
 ## now
 
@@ -30,7 +32,7 @@ I'm passionate about doing cool things that make people feel good. Specifically,
 - Learned [how to make almost anything](https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/) at FabAcademy
 - Introduced engineering and reframed the field to a new wave of amazing young girls at sheMakes
 
-## some projects
+## projects
 
 I've built some things!
 
@@ -38,7 +40,3 @@ I've built some things!
 - [agora: a speech emotion-recognition decision-making web app](https://elainexliu.github.io/projects/2023/09/25/agora.html)
 - [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
 - [more...](https://elainexliu.github.io/projects.html)
-
-## side quests
-
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/eggshellsandoil/). Also love skateboarding, lifting, [improv](https://www.instagram.com/roadkillbuffet/), and strolling around in libraries[.](m-port)
