@@ -11,11 +11,11 @@ layout: home
 
 I'm a student at MIT studying EECS from Charlotte, NC.
 
-I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love think a lot about ethics, political philosophy, improv, playgrounds (or the lack thereof for adults), and [other stuff](https://elainexliu.github.io/writing.html).
+I'm passionate about doing cool things that make people feel good. Specifically, I'm interested in IoT/embedded systems, AI/computer vision, wearables, and BCI for health and consumer applications. I also love improv, art, ethics, political philosophy, and [other stuff](https://elainexliu.github.io/writing.html).
 
 ## now
 
-- Scheming and Brewing in health
+- Scheming and Brewing
 - Researching conformable drug delivery methods @ Conformable Decoders in the Media Lab
 - Venture Partner at Contrary
 
@@ -37,21 +37,8 @@ I've built some things!
 - [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
 - [agora: a speech emotion-recognition decision-making web app](https://elainexliu.github.io/projects/2023/09/25/agora.html)
 - [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
-- [deng long: a carbon monoxide sensing lamp](https://elainexliu.github.io/projects/2022/04/15/deng-long.html)
-- [stance: a posture app](https://elainexliu.github.io/projects/2021/02/22/stance.html)
-- [solar: an exploration of capacitive touch](https://elainexliu.github.io/projects/2020/05/10/solar.html)
-- [foldable phone stand](https://elainexliu.github.io/projects/2019/11/15/foldable-phone-stand.html)
-- [labyrinth: a new take on a box](https://elainexliu.github.io/projects/2019/10/28/labyrinth-box.html)
 - [more...](https://elainexliu.github.io/projects.html)
 
 ## side quests
 
-I love sunsets, [oil painting, and sketching](https://www.instagram.com/elaineliuart/). Also love skateboarding, lifting, [improv](https://www.instagram.com/roadkillbuffet/) and laughing, and strolling around in libraries[.](m-port)
-
-## some thoughts
-
-I like to think and write. Here's my little basement library:
-
-{% for post in site.categories.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+I love sunsets, [oil painting, and sketching](https://www.instagram.com/eggshellsandoil/). Also love skateboarding, lifting, [improv](https://www.instagram.com/roadkillbuffet/), and strolling around in libraries[.](m-port)
