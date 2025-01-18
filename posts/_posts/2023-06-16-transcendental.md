@@ -1,5 +1,5 @@
 ---
-tags: essays
+tags: thoughts
 ---
 
 ## Transcendental Simplicity in a Modern Capitalist America
