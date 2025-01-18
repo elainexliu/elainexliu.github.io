@@ -17,7 +17,7 @@
     text-decoration: none;
     color: black;
     font-family: 'Inter', 'sans-serif';
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .p a:hover{
@@ -44,7 +44,7 @@
 }
 
 h1 {
-    font-size: 37px;
+    font-size: 30px;
     font-family: 'Inter', 'sans-serif';
     color: #14304f;
     font-weight: 700;
@@ -52,14 +52,14 @@ h1 {
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Inter', 'sans-serif';
     color: #14304f;
     font-weight: 600
 }
 p {
     font-family: 'Inter', 'sans-serif';
-    font-size: 11px;
+    font-size: 12px;
     line-height: 1.4em;
     font-weight: 400
 }
@@ -71,6 +71,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-size: 12px;
 }
 
 /* Media query for mobile responsiveness */
