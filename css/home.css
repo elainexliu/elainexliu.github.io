@@ -5,6 +5,19 @@
     margin: 0 auto;
 }
 
+.site-title, .site-title:visited {
+    font-family: 'Inter', 'sans-serif';  /* Using your existing Inter font */
+    color: #14304f;  /* Using your existing navy blue color, change as needed */
+    font-size: 24px;  /* Adjust size as needed */
+    font-weight: 500;  /* Adjust weight as needed */
+    text-decoration: none;
+}
+
+/* If you want to change the hover state */
+.site-title:hover {
+    text-decoration: underline;
+}
+
 .title {
     display: flex;
     align-items: center;
