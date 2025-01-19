@@ -3,6 +3,8 @@ layout: page
 title: writing
 ---
 
+# writing
+
 <!-- {% for tag in site.tags %}
 
   <h3>{{ tag[0] }}</h3>
