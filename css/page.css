@@ -1,0 +1,98 @@
+/* @import url('https://fonts.googleapis.com/css?family=Manrope'); */
+@import url('https://fonts.googleapis.com/css?family=Inter:wght@100;200;300;400;500;600&display=swap');
+.page {
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    gap: 30px; /* Space between image and text */
+    margin-bottom: 20px; /* Space below the header */
+    margin-top: 30px;
+}
+
+.p a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Inter', 'sans-serif';
+    font-size: 12px;
+}
+
+.p a:hover{
+    text-decoration: underline;
+}
+
+.image-cropper {
+    flex-shrink: 0;
+    width: 200px; /* Adjust based on your preferred image size */
+    height: 200px;
+}
+
+.profile-pic {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #14304f;
+}
+
+.header-text {
+    flex: 1;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Inter', 'sans-serif';
+    color: #14304f;
+    font-weight: 700;
+    margin: 0; /* Removes default margin */
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Inter', 'sans-serif';
+    color: #14304f;
+    font-weight: 600
+}
+p {
+    font-family: 'Inter', 'sans-serif';
+    font-size: 13px;
+    line-height: 1.4em;
+    font-weight: 400
+}
+
+ul.posts { 
+    margin: 30px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+    font-size: 13px;
+}
+
+li {
+    font-size: 13px; /* Adjust this value to your preferred size */
+    font-family: 'Inter', 'sans-serif';
+    line-height: 1.4em;
+}
+
+/* If you want to specifically target just the <p> tags inside list items */
+li p {
+    font-size: 13px; /* Adjust this value to your preferred size */
+}
+
+/* Media query for mobile responsiveness */
+@media (max-width: 768px) {
+    .title {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .image-cropper {
+        margin-bottom: 20px;
+    }
+}
