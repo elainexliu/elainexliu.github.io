@@ -7,6 +7,8 @@ title: writing
   <h1>writing</h1>
 </div>
 
+Here are some of my thoughts that made it out of the drafts:
+
 <!-- {% for tag in site.tags %}
 
   <h3>{{ tag[0] }}</h3>
