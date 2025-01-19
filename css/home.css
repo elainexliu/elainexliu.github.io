@@ -42,7 +42,7 @@ body {
 }
 
 .image-cropper {
-    flex-shrink: 0;
+    flex-shrink: wrap;
     width: 175px; /* Adjust based on your preferred image size */
     height: 175px;
 }
