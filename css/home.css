@@ -39,8 +39,8 @@
 
 .image-cropper {
     flex-shrink: 0;
-    width: 200px; /* Adjust based on your preferred image size */
-    height: 200px;
+    width: 175px; /* Adjust based on your preferred image size */
+    height: 175px;
 }
 
 .profile-pic {
