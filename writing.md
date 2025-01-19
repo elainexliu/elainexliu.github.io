@@ -3,7 +3,9 @@ layout: page
 title: writing
 ---
 
-# writing
+<div class="title">
+  <h1>writing</h1>
+</div>
 
 <!-- {% for tag in site.tags %}
 

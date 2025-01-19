@@ -3,7 +3,9 @@ layout: page
 title: projects
 ---
 
-# projects
+<div class="title">
+  <h1>projects</h1>
+</div>
 
 I love to build and create things. Here are some of my creative endeavors, ranging from simple projects made for fun to gadgets made to solve daily inconveniences to well-integrated products made to solve real world problems.
 
