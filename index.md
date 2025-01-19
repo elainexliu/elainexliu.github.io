@@ -11,7 +11,7 @@ layout: home
 
 I'm a student at MIT studying EECS from Charlotte, NC.
 
-I'm passionate about doing cool things that make people feel good. Right now, I'm interested in behavioral econonimcs and embedded systems/circuit design/computer vision for health and consumer tech.
+I'm passionate about doing cool things that make people feel good. Right now, I'm interested in behavioral economics and embedded systems/circuit design/computer vision for health and consumer tech.
 
 I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube](https://www.youtube.com/@elainexliu), [improv](https://www.instagram.com/roadkillbuffet/), skateboarding, lifting, political philosophy, and strolling around in libraries[.](m-port)
 
