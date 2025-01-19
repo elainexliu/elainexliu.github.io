@@ -3,9 +3,7 @@ layout: page
 title: writing
 ---
 
-<div class="title">
-  <h1>writing</h1>
-</div>
+# writing
 
 Here are some of my thoughts that made it out of the drafts:
 

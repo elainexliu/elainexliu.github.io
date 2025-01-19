@@ -1,6 +1,5 @@
 pricing:
-- small square canvases: $25-75
-- small canvases: $50-100
-- medium canvases: $100
-- medium large canvases: $300
-- 
+- small square canvases: $50
+- small canvases: $100
+- medium canvases: $200
+- large canvases: $300
