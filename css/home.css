@@ -5,6 +5,10 @@
     margin: 0 auto;
 }
 
+body {
+    background-color: #f4f8ff; /* Light gray color, change this to your preferred color */
+}
+
 .site-title, .site-title:visited {
     font-family: 'Inter', 'sans-serif';  /* Using your existing Inter font */
     color: #14304f;  /* Using your existing navy blue color, change as needed */
@@ -20,7 +24,7 @@
 
 .title {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     gap: 30px; /* Space between image and text */
     margin-bottom: 20px; /* Space below the header */
     margin-top: 30px;
