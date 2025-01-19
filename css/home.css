@@ -9,7 +9,7 @@
     display: flex;
     align-items: center;
     gap: 30px; /* Space between image and text */
-    margin-bottom: 30px; /* Space below the header */
+    margin-bottom: 20px; /* Space below the header */
     margin-top: 30px;
 }
 

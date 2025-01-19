@@ -6,7 +6,7 @@ layout: home
   <img src="/assets/pics/pfp.jpg" alt="me" class="profile-pic">
 </div>
 <div class="title">
-  <h1>hey, i'm elaine</h1>
+  <h1>hey, i'm elaine!</h1>
 </div>
 
 I'm a student at MIT studying EECS from Charlotte, NC.
