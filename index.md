@@ -17,12 +17,12 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 
 ## now
 
-- Scheming and Brewing
-- Researching conformable drug delivery methods @ Conformable Decoders in the Media Lab
+- Brewing
 - Venture Partner at Contrary
 
 ## previously
 
+- Researched conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab
 - Thrive Fellow (GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs at Thrive)
 - Schemed at Prod
 - Optimized vehicle computer vision models at VIA + explored Taiwan
