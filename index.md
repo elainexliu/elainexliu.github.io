@@ -23,7 +23,7 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 
 - Conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab
 - GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs @ Thrive Capital
-- Schemed @ Prod
+- Schemed with Cohort 3.0 Admin @ Prod
 - Vehicle computer vision model optimization @ VIA + explored Taiwan
 - Controlled drug delivery methods + bioMEMS research @ the MIT Koch Institute
 - Fire alarm detection products and IoT data management systems @ Enventys Partners
