@@ -21,15 +21,15 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 
 ## previously
 
-- Researched conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab
-- Thrive Fellow (GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs at Thrive)
-- Schemed at Prod
-- Optimized vehicle computer vision models at VIA + explored Taiwan
-- Controlled drug delivery methods + bioMEMS research at the MIT Koch Institute
-- Made fire alarm detection products and IoT data management systems at Enventys Partners
-- Predicted hereditary cataracts with ML research at UNC Wilmington
-- Learned [how to make almost anything](https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/) at FabAcademy
-- Introduced engineering and reframed the field to a new wave of amazing young girls at sheMakes
+- Conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab
+- GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs @ Thrive Capital
+- Schemed @ Prod
+- Vehicle computer vision model optimization @ VIA + explored Taiwan
+- Controlled drug delivery methods + bioMEMS research @ the MIT Koch Institute
+- Fire alarm detection products and IoT data management systems @ Enventys Partners
+- Hereditary cataract prediction with ML research @ UNC Wilmington
+- [How to make almost anything](https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/) @ FabAcademy
+- Engineering for young girls @ sheMakes
 
 ## projects
 
