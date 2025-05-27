@@ -35,6 +35,8 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 
 I've built some things!
 
+- [EMG the long (analog) way](https://elainexliu.github.io/projects/2025/05/14/EMG.html)
+- [CUSD: a conformable ultrasound drug delivery device](https://elainexliu.github.io/projects/2024/12/30/cusd.html)
 - [amber: a gen z lip-picking detection web app](https://elainexliu.github.io/projects/2024/10/12/amber.html)
 - [agora: a speech emotion-recognition decision-making web app](https://elainexliu.github.io/projects/2023/09/25/agora.html)
 - [navimap: an IoT interactive capacitive touch world map](https://elainexliu.github.io/projects/2020/07/20/navimap.html)
