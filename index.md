@@ -18,6 +18,7 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 ## now
 
 - Brewing
+- Product at Abby Care, making paid family caretaking more accessible. Backed by Sequoia, Khosla, and Thrive
 - Venture Partner at Contrary
 
 ## previously
