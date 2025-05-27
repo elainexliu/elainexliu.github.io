@@ -9,7 +9,7 @@ layout: home
   <h1>hey, i'm elaine!</h1>
 </div>
 
-I'm studying EECS @ MIT, from Charlotte, NC, and passionate about doing cool things that make people feel good. Right now, I'm interested in hardware/circuit design + AI/computer vision for health and consumer tech.
+I'm studying EECS @ MIT and passionate about doing cool things that make people feel good. Right now, I'm interested in hardware/circuit design + AI/computer vision for health and consumer tech.
 
 I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube](https://www.youtube.com/@elainexliu), [improv](https://www.instagram.com/roadkillbuffet/), skateboarding, lifting, political philosophy, and strolling around in libraries[.](m-port)
 
