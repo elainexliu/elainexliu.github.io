@@ -16,7 +16,7 @@ I also love sunsets, [art](https://www.instagram.com/eggshellsandoil/), [youtube
 ## now
 
 - Building consumer products for tics and BFRBs
-- Product at Abby Care, making paid family caretaking more accessible. Backed by Sequoia, Khosla, and Thrive
+- Product at a stealth healthcare startup, working to make paid family caretaking more accessible. Backed by Sequoia, Khosla, and Thrive
 - Venture Partner at Contrary
 
 ## previously
