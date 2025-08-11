@@ -8,7 +8,7 @@ layout: home
         <div class="intro-text">
             <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine!</p>
             <p>I'm studying <span class="highlight">EECS @ MIT</span> and passionate about doing cool things that make people feel good. Right now, I'm interested in <span class="highlight blue">hardware</span> + <span class="highlight blue">AI/computer vision</span> for health and consumer tech.</p>
-            <p>I also love sunsets, <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.youtube.com/@elainexliu">youtube</a>, <a href="https://www.instagram.com/roadkillbuffet/">improv</a>, skateboarding, lifting, political philosophy, and strolling around in libraries.</p>
+            <p>I also love sunsets, <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.youtube.com/@elainexliu">youtube</a>, <a href="https://www.instagram.com/roadkillbuffet/">improv</a>, and skateboarding.</p>
         </div>
     </div>
 </div>
