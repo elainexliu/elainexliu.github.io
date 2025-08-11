@@ -1,17 +1,17 @@
 /* Override minima theme's blue header bar */
-/* .site-header {
+.site-header {
     background-color: var(--accent-sage) !important;
     border-bottom: none !important;
 }
 
-.site-header .wrapper {
+/* .site-header .wrapper {
     background-color: var(--accent-sage) !important;
 } */
 
 /* Alternative: Hide the header completely */
-.site-header {
+/* .site-header {
     display: none !important;
-}
+} */
 
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,400&family=Grotesk:wght@300;400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,400&display=swap');
