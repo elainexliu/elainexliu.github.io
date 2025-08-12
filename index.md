@@ -18,7 +18,7 @@ layout: home
     <ul class="bullet-list">
         <li>Building consumer products for tics and BFRBs</li>
         <li>Product at a stealth healthcare startup, working to make paid family caretaking more accessible
-            <div class="sub-item">Backed by Sequoia, Khosla, and Thrive</div>
+            <div class="sub-item">Backed by Sequoia and Khosla</div>
         </li>
         <li>Venture Partner at Contrary</li>
     </ul>
@@ -28,7 +28,7 @@ layout: home
     <h2 class="section-title">previously</h2>
     <ul class="bullet-list">
         <li>Conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab</li>
-        <li>GTM strategy, cash burn modeling, and investing for health and consumer tech and BCIs @ Thrive Capital</li>
+        <li>Deal team and portfolio impact (GTM strategy, cash burn modeling) for health, consumer, and deep tech @ Thrive Capital</li>
         <li>Schemed with Cohort 3.0 Admin @ Prod</li>
         <li>Vehicle computer vision model optimization @ VIA + explored Taiwan</li>
         <li>Controlled drug delivery methods + bioMEMS research @ the MIT Koch Institute</li>
