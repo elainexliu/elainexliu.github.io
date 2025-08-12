@@ -252,12 +252,12 @@ body {
 
 /* Override minima theme's blue header bar */
 .site-header {
-    background-color: var(--accent-sage) !important;
+    background-color: #ffffff !important;
     border-bottom: none !important;
 }
 
 .site-header .wrapper {
-    background-color: var(--accent-sage) !important;
+    background-color: #ffffff !important;
 }
 
 /* Alternative: Hide the header completely */
