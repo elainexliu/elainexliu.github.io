@@ -284,11 +284,11 @@ body {
 }
 
 .logo:hover {
-    color: var(--accent-sage);
-    text-decoration: underline;
-    text-decoration-color: var(--accent-sage);
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
+    color: var(--accent-sage) !important;
+    text-decoration: underline !important;
+    text-decoration-color: var(--accent-sage) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
 }
 
 .nav-links {
@@ -306,11 +306,21 @@ body {
 }
 
 .nav-links a:hover {
-    color: var(--accent-sage);
-    text-decoration: underline;
-    text-decoration-color: var(--accent-sage);
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
+    color: var(--accent-sage) !important;
+    text-decoration: underline !important;
+    text-decoration-color: var(--accent-sage) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
+}
+
+/* Override general a:hover for header elements */
+.site-header .logo:hover,
+.site-header .nav-links a:hover {
+    color: var(--accent-sage) !important;
+    text-decoration: underline !important;
+    text-decoration-color: var(--accent-sage) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
 }
 
 .nav-links a.active {
