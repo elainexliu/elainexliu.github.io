@@ -34,13 +34,14 @@ layout: home
         <li>Controlled drug delivery methods + bioMEMS research @ the MIT Koch Institute</li>
         <li>Fire alarm detection products and IoT data management systems @ Enventys Partners</li>
         <li>Hereditary cataract prediction with ML research @ UNC Wilmington</li>
+        <li><a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
+        <li>Engineering for young girls @ sheMakes</li>
+        <li><a href="https://elainexliu.com/projects.html">I've built some things!</a></li>
     </ul>
 </div>
 
 <div class="section">
     <ul class="bullet-list">
-        <li><a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
-        <li>Engineering for young girls @ sheMakes</li>
-        <li>I've built some things!</li>
+        
     </ul>
 </div>

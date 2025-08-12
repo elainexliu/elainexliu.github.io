@@ -252,7 +252,7 @@ body {
 
 /* Custom header and footer styles */
 .site-header {
-    background-color: #ffffff;
+    background-color: #ffffff !important;
     border-bottom: 1px solid var(--border);
     padding: 16px 0;
     position: sticky;
@@ -264,6 +264,7 @@ body {
     max-width: 760px;
     margin: 0 auto;
     padding: 0 32px;
+    background-color: #ffffff !important;
 }
 
 .nav-content {
@@ -338,20 +339,7 @@ body {
     margin: 0;
 }
 
-/* Override minima theme's blue header bar */
-.site-header {
-    background-color: #ffffff !important;
-    border-bottom: none !important;
-}
-
-.site-header .wrapper {
-    background-color: #ffffff !important;
-}
-
-/* Alternative: Hide the header completely */
-/* .site-header {
-    display: none !important;
-} */
+/* Remove the old conflicting header overrides */
 
 .home-page, .page {
     max-width: 760px;
