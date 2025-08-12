@@ -6,12 +6,6 @@ email: "exliu@mit.edu"
 description: "my corner of the web"
 url: "https://elainexliu.com"
 
-# URL configuration for clean URLs
-permalink: /:collection/:title/
-relative_links:
-  enabled: true
-  collections: true
-
 # minima variables
 twitter_username: elainexliu
 # github_username: "githubuser"
