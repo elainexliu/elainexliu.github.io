@@ -280,6 +280,15 @@ body {
     color: var(--text-primary);
     text-decoration: none;
     font-style: italic;
+    transition: all 0.25s ease;
+}
+
+.logo:hover {
+    color: var(--accent-sage);
+    text-decoration: underline;
+    text-decoration-color: var(--accent-sage);
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
 }
 
 .nav-links {
@@ -292,12 +301,16 @@ body {
     text-decoration: none;
     font-size: 15px;
     font-weight: 400;
-    transition: color 0.25s ease;
+    transition: all 0.25s ease;
     position: relative;
 }
 
 .nav-links a:hover {
-    color: var(--text-primary);
+    color: var(--accent-sage);
+    text-decoration: underline;
+    text-decoration-color: var(--accent-sage);
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
 }
 
 .nav-links a.active {
