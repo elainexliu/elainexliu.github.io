@@ -678,33 +678,35 @@ a:hover {
 
 /* Experience grid for side-by-side layout */
 .experience-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 48px;
-    margin-top: 24px;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 48px !important;
+    margin-top: 24px !important;
+    width: 100% !important;
 }
 
 .experience-category {
-    font-family: 'DM Sans', system-ui, sans-serif;
-    font-size: 15px;
-    font-weight: 500;
-    color: var(--text-secondary);
-    margin-bottom: 20px;
-    letter-spacing: 0.3px;
-    text-transform: lowercase;
+    font-family: 'DM Sans', system-ui, sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    color: var(--text-secondary) !important;
+    margin-bottom: 20px !important;
+    letter-spacing: 0.3px !important;
+    text-transform: lowercase !important;
 }
 
 .experience-column {
-    min-width: 0;
+    min-width: 0 !important;
+    width: 100% !important;
 }
 
 .experience-column .bullet-list {
-    margin-left: 0;
+    margin-left: 0 !important;
 }
 
 .experience-column .bullet-list li {
-    margin-bottom: 12px;
-    line-height: 1.7;
+    margin-bottom: 12px !important;
+    line-height: 1.7 !important;
 }
 
 /* Mobile */
@@ -784,11 +786,16 @@ a:hover {
 
     /* Mobile responsive for experience grid */
     .experience-grid {
-        grid-template-columns: 1fr;
-        gap: 32px;
+        grid-template-columns: 1fr !important;
+        gap: 32px !important;
+        padding: 0 16px !important;
     }
     
     .experience-category {
-        margin-bottom: 16px;
+        margin-bottom: 16px !important;
+    }
+    
+    .experience-column {
+        padding: 16px 0 !important;
     }
 } 
