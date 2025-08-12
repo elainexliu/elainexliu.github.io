@@ -34,7 +34,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/cusd/thumbnail.jpg" alt="CUSD Device">
     </div>
     <div class="project-content">
         <div class="project-meta">December 2024 • Team Research</div>
@@ -46,7 +46,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/amber/thumbnail.jpg" alt="Amber App">
     </div>
     <div class="project-content">
         <div class="project-meta">October 2024 • Web Application</div>
@@ -58,7 +58,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/navimap/thumbnail.jpg" alt="Navimap">
     </div>
     <div class="project-content">
         <div class="project-meta">July 2020 • IoT</div>
@@ -70,7 +70,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/denglong/thumbnail.jpg" alt="Deng Long Lamp">
     </div>
     <div class="project-content">
         <div class="project-meta">April 2022 • Product Design</div>
@@ -82,7 +82,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/cupcake/thumbnail.jpg" alt="Cupcake Machine">
     </div>
     <div class="project-content">
         <div class="project-meta">July 2020 • Team Project</div>

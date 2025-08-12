@@ -19,6 +19,6 @@ I worked heavily on the design of this project. Here are some sketches and desig
 
 ![cupcake sketch5](/assets/pics/project_pics/cupcake/cupcake5.png)
 
-![cupcake sketch6](/assets/pics/project_pics/cupcake/cupcake6.png)
+![cupcake sketch6](/assets/pics/project_pics/cupcake/thumbnail.jpg)
 
 You can find the full documentation [here](https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/assignments/week17/).
