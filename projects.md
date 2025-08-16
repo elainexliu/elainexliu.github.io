@@ -22,7 +22,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/emg/thumbnail.png" alt="EMG circuit">
     </div>
     <div class="project-content">
         <div class="project-meta">May 2025 • Class Project</div>
@@ -34,13 +34,13 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/pose/thumbnail.jpg" alt="Pose v0">
     </div>
     <div class="project-content">
         <div class="project-meta">January 2025 • Consumer Health</div>
-        <div class="project-title">miro: a device to stop us at the mirror</div>
-        <div class="project-description">Designing interventions for body-focused repetitive behaviors through ambient computing and gentle behavioral nudges.</div>
-        <a href="/projects/2025/01/18/miro.html" class="project-link">Read more</a>
+        <div class="project-title">pose: a device to stop obsessive skin picking</div>
+        <div class="project-description">Designing interventions for body-focused repetitive behaviors through gentle interventions behavioral nudges.</div>
+        <a href="/projects/2025/01/18/pose.html" class="project-link">Read more</a>
     </div>
 </div>
 
