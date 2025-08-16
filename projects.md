@@ -58,6 +58,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/alterego/thumbnail.jpg" alt="Alter Ego Design v0">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">December 2024 • Consumer Hardware Design</div>
+        <div class="project-title">alter ego: a silent speech device</div>
+        <div class="project-description">New form factor discovery and parametric CAD for Alter Ego.</div>
+        <a href="/projects/2022/04/15/alter-ego.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/amber/thumbnail.jpg" alt="Amber App">
     </div>
     <div class="project-content">
@@ -70,18 +82,6 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <img src="/assets/pics/project_pics/navimap/thumbnail.jpg" alt="Navimap">
-    </div>
-    <div class="project-content">
-        <div class="project-meta">July 2020 • Consumer Hardware</div>
-        <div class="project-title">navimap: an IoT interactive capacitive touch world map</div>
-        <div class="project-description">Interactive world map using capacitive touch sensors to trigger location-based content and stories.</div>
-        <a href="/projects/2020/07/20/navimap.html" class="project-link">Read more</a>
-    </div>
-</div>
-
-<div class="project-item">
-    <div class="project-image">
         <img src="/assets/pics/project_pics/denglong/thumbnail.jpg" alt="Deng Long Lamp">
     </div>
     <div class="project-content">
@@ -89,6 +89,18 @@ title: projects
         <div class="project-title">deng long: a carbon monoxide sensing lamp</div>
         <div class="project-description">Ambient home safety device that provides elegant environmental monitoring through beautiful lighting design.</div>
         <a href="/projects/2022/04/15/deng-long.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
+        <img src="/assets/pics/project_pics/navimap/thumbnail.jpg" alt="Navimap">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">July 2020 • Consumer Hardware</div>
+        <div class="project-title">navimap: an IoT interactive capacitive touch world map</div>
+        <div class="project-description">Interactive world map using capacitive touch sensors to trigger location-based content and stories.</div>
+        <a href="/projects/2020/07/20/navimap.html" class="project-link">Read more</a>
     </div>
 </div>
 
