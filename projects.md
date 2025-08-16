@@ -10,12 +10,12 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <span>image placeholder</span>
+        <img src="/assets/pics/project_pics/diffamp/thumbnail.jpg" alt="Diffamp layout">
     </div>
     <div class="project-content">
         <div class="project-meta">May 2025 • Class Project</div>
         <div class="project-title">Diff Amp: From the Ground Up</div>
-        <div class="project-description">Designed, tested, taped and laid out a differential amplifier with 3246 V/mW figure of merit.</div>
+        <div class="project-description">Designed, tested, taped and laid out a differential amplifier with 3246 V/mW figure of merit, along with a code-checker circuit.</div>
         <a href="/projects/2025/05/14/EMG.html" class="project-link">Read more</a>
     </div>
 </div>
