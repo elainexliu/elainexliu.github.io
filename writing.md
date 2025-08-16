@@ -8,10 +8,6 @@ title: writing
 
 <ul class="writing-list">
     <li class="writing-item">
-        <div class="writing-date">March 2025</div>
-        <a href="/posts/2025/03/01/themomtest-takeaways.html" class="writing-title">The Mom Test Takeaways</a>
-    </li>
-    <li class="writing-item">
         <div class="writing-date">February 2025</div>
         <a href="/posts/2025/02/15/play.html" class="writing-title">The loss of play in adulthood</a>
     </li>
