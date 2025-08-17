@@ -9,7 +9,7 @@ title: writing
 <ul class="writing-list">
     <li class="writing-item">
         <div class="writing-date">February 2025</div>
-        <a href="/posts/2025/02/15/play.html" class="writing-title">The loss of play in adulthood</a>
+        <a href="/posts/2025/02/15/play.html" class="writing-title">Play!</a>
     </li>
     <li class="writing-item">
         <div class="writing-date">January 2025</div>
