@@ -17,8 +17,8 @@ layout: home
     <h2 class="section-title">now</h2>
     <ul class="bullet-list">
         <li>Building consumer products for tics and BFRBs</li>
-        <li>Product at a stealth healthcare startup, working to make paid family caretaking more accessible
-            <div class="sub-item">Backed by Sequoia and Khosla</div>
+        <li>Product at Abby Care, working to make paid family caretaking more accessible
+            <div class="sub-item">Backed by Sequoia, Khosla, and Thrive</div>
         </li>
         <li>Venture Partner at Contrary</li>
     </ul>
