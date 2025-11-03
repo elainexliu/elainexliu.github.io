@@ -22,6 +22,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/improved/improved.jpg" alt="Improved">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">September 2025 • Personal Project</div>
+        <div class="project-title">improved: a game-selection tool for improv troupes</div>
+        <div class="project-description">Saving your time to spend more playing and less choosing games for rehearsals and shows.</div>
+        <a href="/projects/2025/09/15/improved.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/emg/thumbnail.png" alt="EMG circuit">
     </div>
     <div class="project-content">
