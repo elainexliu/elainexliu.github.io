@@ -8,6 +8,22 @@ title: writing
 
 <ul class="writing-list">
     <li class="writing-item">
+        <div class="writing-date">December 2025</div>
+        <a href="/posts/2025/12/17/fleabag.html" class="writing-title">Fleabag</a>
+    </li>
+    <li class="writing-item">
+        <div class="writing-date">December 2025</div>
+        <a href="/posts/2025/12/16/inputs.html" class="writing-title">Inputs (Movies)</a>
+    </li>
+    <li class="writing-item">
+        <div class="writing-date">December 2025</div>
+        <a href="/posts/2025/12/15/actors.html" class="writing-title">Acting as Inspiration</a>
+    </li>
+    <li class="writing-item">
+        <div class="writing-date">November 2025</div>
+        <a href="/posts/2025/11/15/who-we-are.html" class="writing-title">Who We Are</a>
+    </li>
+    <li class="writing-item">
         <div class="writing-date">October 2025</div>
         <a href="/posts/2025/10/25/improv.html" class="writing-title">Improv</a>
     </li>
