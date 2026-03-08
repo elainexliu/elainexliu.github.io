@@ -50,9 +50,9 @@ title: projects
     </div>
     <div class="project-content">
         <div class="project-meta">January 2025 • Consumer Health</div>
-        <div class="project-title">pose: a device to stop obsessive skin picking</div>
+        <div class="project-title">dot: a device to stop obsessive skin picking</div>
         <div class="project-description">Designing interventions for body-focused repetitive behaviors through gentle interventions behavioral nudges.</div>
-        <a href="/projects/2025/01/18/pose.html" class="project-link">Read more</a>
+        <a href="/projects/2025/01/18/dot.html" class="project-link">Read more</a>
     </div>
 </div>
 
