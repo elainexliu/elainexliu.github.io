@@ -8,7 +8,7 @@ layout: home
         <div class="intro-text">
             <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine!</p>
             <p>I'm studying <span class="highlight">EECS @ MIT</span> and passionate about doing cool things that make people feel good. Right now, I'm interested in <span class="highlight blue">hardware</span> + <span class="highlight blue">AI/computer vision</span> for health and consumer tech.</p>
-            <p>I also love sunsets, <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.youtube.com/@elainexliu">youtube</a>, <a href="https://www.instagram.com/roadkillbuffet/">improv</a>, and skateboarding.</p>
+            <p>I also love sunsets, <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and <a href="https://www.instagram.com/roadkillbuffet/">improv</a>.</p>
         </div>
     </div>
 </div>
@@ -17,10 +17,7 @@ layout: home
     <h2 class="section-title">now</h2>
     <ul class="bullet-list">
         <li>Building consumer products for tics and BFRBs</li>
-        <li>Product at Abby Care, working to make paid family caretaking more accessible
-            <div class="sub-item">Backed by Sequoia, Khosla, and Thrive</div>
-        </li>
-        <li>Venture Partner at Contrary</li>
+        <li>Investment Intern @ Neo</li>       
     </ul>
 </div>
 
@@ -28,8 +25,11 @@ layout: home
     <h2 class="section-title">previously</h2>
     <div class="experience-grid">
         <div class="experience-column">
-            <h3 class="experience-category">technical</h3>
+            <h3 class="experience-category">eng & product</h3>
             <ul class="bullet-list">
+                <li>Product @ Abby Care, working to make paid family caretaking more accessible
+                    <div class="sub-item">Backed by Sequoia, Khosla, and Thrive</div>
+                </li>
                 <li>Conformable drug delivery methods and women's health devices @ Conformable Decoders in the Media Lab</li>
                 <li>Vehicle computer vision model optimization @ VIA + explored Taiwan</li>
                 <li>Controlled drug delivery methods + bioMEMS research @ the MIT Koch Institute</li>
@@ -42,6 +42,7 @@ layout: home
         <div class="experience-column">
             <h3 class="experience-category">venture & orgs</h3>
             <ul class="bullet-list">
+                <li>Venture Partner @ Contrary</li>
                 <li>Deal team and portfolio impact (GTM strategy, cash burn modeling) for health, consumer, and deep tech @ Thrive Capital</li>
                 <li>Schemed with Cohort 3.0 Admin @ Prod</li>
                 <li>Engineering for young girls @ sheMakes</li>
