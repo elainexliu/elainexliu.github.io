@@ -43,7 +43,7 @@ layout: home
             <h3 class="experience-category">venture & orgs</h3>
             <ul class="bullet-list">
                 <li>Venture Partner @ Contrary</li>
-                <li>Deal team and portfolio impact for health, consumer, and deep tech @ Thrive Capital</li>
+                <li>Investing for health, consumer, and deep tech @ Thrive Capital</li>
                 <li>Schemed with Cohort 3.0 Admin @ Prod</li>
                 <li>Engineering for young girls @ sheMakes</li>
             </ul>
