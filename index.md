@@ -7,7 +7,7 @@ layout: home
         <img src="/assets/pics/pfp.jpg" alt="Elaine Liu" class="profile-photo">
         <div class="intro-text">
             <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine!</p>
-            <p>I'm studying <span class="highlight">EECS @ MIT</span> and passionate about doing cool things that make people feel good. Right now, I'm interested in <span class="highlight blue">hardware</span> + <span class="highlight blue">design</span> + <span class="highlight blue">edge AI</span> for health and consumer tech.</p>
+            <p>I'm studying <span class="highlight">EECS @ MIT</span> and love doing things that spark joy. Right now, I'm interested in consumer and health <span class="highlight blue">hardware</span> and <span class="highlight blue">design</span>.</p>
             <p>I also love sunsets, <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and <a href="https://www.instagram.com/roadkillbuffet/">improv</a>.</p>
         </div>
     </div>
