@@ -10,6 +10,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/f1d/thumbnail.jpg" alt="f1d">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">March 2026 • Class Project</div>
+        <div class="project-title">f1d: a retro 1-dim racing game</div>
+        <div class="project-description">Made a little something to spark some joy. Bigger things coming..</div>
+        <a href="/projects/2026/03/07/f1d.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/diffamp/thumbnail.jpg" alt="Diffamp layout">
     </div>
     <div class="project-content">
