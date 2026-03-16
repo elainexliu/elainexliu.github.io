@@ -8,6 +8,10 @@ title: writing
 
 <ul class="writing-list">
     <li class="writing-item">
+        <div class="writing-date">March 2026</div>
+        <a href="/posts/2026/03/16/vanguard.html" class="writing-title">On Venture</a>
+    </li>
+    <li class="writing-item">
         <div class="writing-date">December 2025</div>
         <a href="/posts/2025/12/17/fleabag.html" class="writing-title">Fleabag</a>
     </li>
