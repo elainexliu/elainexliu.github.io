@@ -94,7 +94,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <img src="/assets/pics/project_pics/alterego/thumbnail.jpg" alt="Alter Ego Design v0">
+        <img src="/assets/pics/project_pics/alterego/thumbnail.png" alt="Alter Ego Design v0">
     </div>
     <div class="project-content">
         <div class="project-meta">December 2024 • Consumer Hardware Design</div>
