@@ -100,7 +100,7 @@ title: projects
         <div class="project-meta">December 2024 • Consumer Hardware Design</div>
         <div class="project-title">alter ego: a silent speech device</div>
         <div class="project-description">New form factor discovery and parametric CAD for Alter Ego.</div>
-        <a href="/projects/2022/04/15/alter-ego.html" class="project-link">Read more</a>
+        <a href="/projects/2024/04/15/alter-ego.html" class="project-link">Read more</a>
     </div>
 </div>
 
