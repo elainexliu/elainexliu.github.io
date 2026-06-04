@@ -17,7 +17,7 @@ title: writing
     </li>
     <li class="writing-item">
         <div class="writing-date">December 2025</div>
-        <a href="/posts/2025/12/16/inputs.html" class="writing-title">Inputs (Movies)</a>
+        <a href="/posts/2025/12/16/inputs.html" class="writing-title">Inputs</a>
     </li>
     <li class="writing-item">
         <div class="writing-date">December 2025</div>
