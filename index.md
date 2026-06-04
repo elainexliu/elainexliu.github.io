@@ -36,7 +36,7 @@ layout: home
                 <li>Hereditary cataract prediction with ML research @ UNC Wilmington</li>
                 <li>Built a hardware community for young girls@ sheMakes</li>
                 <li><a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
-                <li><a href="https://elainexliu.com/projects.html">I've built some things!</a></li>
+                <li><a href="https://elainexliu.com/projects.html">more things I've built</a></li>
             </ul>
         </div>
         <div class="experience-column">
