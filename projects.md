@@ -10,7 +10,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <img src="/assets/pics/project_pics/enclair/enclair.jpg" alt="enclair">
+        <img src="/assets/pics/project_pics/enclair/enclair.JPG" alt="enclair">
     </div>
     <div class="project-content">
         <div class="project-meta">May 2026 • Class Project</div>
