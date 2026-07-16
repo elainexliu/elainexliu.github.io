@@ -10,13 +10,13 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <img src="/assets/pics/project_pics/enclair/enclair.jpeg" alt="enclair">
+        <img src="/assets/pics/project_pics/enclair/enclair.jpg" alt="enclair">
     </div>
     <div class="project-content">
         <div class="project-meta">May 2026 • Class Project</div>
         <div class="project-title">en clair: a device for perceptual filtering</div>
         <div class="project-description">nothing is ever in plain language</div>
-        <a href="/projects/2026/05/31/.html" class="project-link">Read more</a>
+        <a href="/projects/2026/05/31/enclair.html" class="project-link">Read more</a>
     </div>
 </div>
 
