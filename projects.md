@@ -22,6 +22,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/velocity/thumbnail.png" alt="velocity">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">May 2026 • Class Project</div>
+        <div class="project-title">velocity: a Cambridge bike lane monitor</div>
+        <div class="project-description">To identify bike lane usage and direction for future policy implementation</div>
+        <a href="/projects/2026/05/30/velocity.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/f1d/thumbnail.jpg" alt="f1d">
     </div>
     <div class="project-content">
