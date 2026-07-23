@@ -45,6 +45,7 @@ layout: home
         </ul>
     </div>
 </div>
+
 <!-- 
 <div class="section">
     <h2 class="section-title">previously</h2>
