@@ -28,12 +28,10 @@ layout: home
         <div class="experience-column">
             <h3 class="experience-category">building things</h3>
             <ul class="bullet-list">
-                <li>Product @ Abby Care, working to make paid family caretaking more accessible
-                    <div class="sub-item">Backed by Sequoia, Khosla, and Thrive</div>
-                </li>
-                <li>Researcher @ Conformable Decoders in the Media Lab</li>
-                <li>Deep Learning Researcher (vehicle computer vision model optimization) @ VIA + explored Taiwan</li>
-                <li>Researcher (controlled drug delivery methods + fixtures for bioMEMS research) @ the MIT Koch Institute</li>
+                <li>Product @ Abby Care</li>
+                <li>Researcher @ Conformable Decoders</li>
+                <li>Deep Learning Researcher (vehicle computer vision model optimization) @ VIA</li>
+                <li>Researcher (controlled drug delivery methods + fixtures for bioMEMS research) @ the Koch Institute of Integrative Cancer Research</li>
                 <li>EE (fire alarm detection products and IoT data management systems) @ Enventys Partners</li>
                 <li>Researcher (hereditary cataract prediction) @ UNC Wilmington</li>
                 <li>Built a hardware community for young girls @ sheMakes</li>
