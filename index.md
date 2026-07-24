@@ -8,7 +8,7 @@ layout: home
         <div class="intro-text">
             <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine!</p>
             <p>I graduated from MIT with a degree in EECS (devices, circuits, and systems) and a minor in Political Science. I design and build products that connect human health and joy.</p>
-            <p>I built products for nurses and clinicians at Abby Care, a Sequoia and Thrive backed startup working to make family care possible. With the Conformable Decoders group and Canan Dagdeviren, I built conformable ultrasound drug-delivery devices for IVF hormone delivery.</p>
+            <p>I built products for nurses and clinicians at <a href="https://www.abbycare.org/">Abby Care</a>, a Sequoia and Thrive backed startup working to make family care possible. With the <a href="https://conformabledecoders.media.mit.edu/">Conformable Decoders</a> group and Canan Dagdeviren, I built conformable ultrasound drug-delivery devices for IVF hormone delivery.</p>
             <p>I’m constantly thinking about design, the role of play and entertainment, and the future of our political economy.</p>
             <p>And I really love <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and <a href="https://www.instagram.com/roadkillbuffet/">improv</a>.</p>
         </div>
@@ -37,7 +37,6 @@ layout: home
             <li><a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
             <li><a href="https://elainexliu.com/projects.html">more things I've built</a></li>
         </ul>
-        
         <h3 class="experience-category">thinking about things</h3>
         <ul class="bullet-list">
             <li>Investment Intern @ Neo</li>
