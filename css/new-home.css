@@ -27,7 +27,7 @@ body {
     font-family: 'DM Sans', system-ui, sans-serif !important;
     background: var(--bg-primary) !important;
     color: var(--text-primary) !important;
-    line-height: 1.65 !important;
+    line-height: 1.2 !important;
     font-size: 12px !important;
     -webkit-font-smoothing: antialiased !important;
     font-weight: 400 !important;
