@@ -28,7 +28,7 @@ body {
     background: var(--bg-primary) !important;
     color: var(--text-primary) !important;
     line-height: 1.65 !important;
-    font-size: 15px !important;
+    font-size: 12px !important;
     -webkit-font-smoothing: antialiased !important;
     font-weight: 400 !important;
 }
@@ -690,6 +690,7 @@ a:hover {
     font-size: 14px !important;
     font-weight: 400 !important;
     color: var(--text-muted) !important;
+    margin-top: 24px !important;
     margin-bottom: 20px !important;
     letter-spacing: 0.3px !important;
     text-transform: lowercase !important;
