@@ -5,7 +5,7 @@ title: projects
 
 <div class="projects-intro">
     <h1>projects</h1>
-    <p class="large-text">I love to build things. Here are some of them, going all the way back.</p>
+    <p class="large-text">I love building things. Here are some of them, going all the way back.</p>
 </div>
 
 <div class="project-item">

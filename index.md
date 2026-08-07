@@ -27,20 +27,20 @@ layout: home
     <h2 class="section-title">previously</h2>
     <h3 class="experience-category">building things</h3>
     <ul class="bullet-list">
-        <li>Product @ Abby Care</li>
-        <li>Researcher @ Conformable Decoders</li>
-        <li>Deep Learning Researcher (vehicle computer vision model optimization) @ VIA</li>
-        <li>Researcher (controlled drug delivery methods + fixtures for bioMEMS research) @ the Koch Institute of Integrative Cancer Research</li>
-        <li>EE (fire alarm detection products and IoT data management systems) @ Enventys Partners</li>
-        <li>Researcher (hereditary cataract prediction) @ UNC Wilmington</li>
-        <li>Built a hardware community for young girls @ sheMakes</li>
-        <li><a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
+        <li>2025: Product @ Abby Care</li>
+        <li>2023-2025: Researcher @ Conformable Decoders</li>
+        <li>2023: Deep Learning Researcher (vehicle computer vision model optimization) @ VIA</li>
+        <li>2023: Researcher (controlled drug delivery methods + fixtures for bioMEMS research) @ the Koch Institute of Integrative Cancer Research</li>
+        <li>2022: EE (fire alarm detection products and IoT data management systems) @ Enventys Partners</li>
+        <li>2022: Researcher (hereditary cataract prediction) @ UNC Wilmington</li>
+        <li>2021-2022: Built a hardware community for young girls @ sheMakes</li>
+        <li> <a href="https://fabacademy.org/2020/labs/charlotte/students/elaine-liu/">How to make almost anything</a> @ FabAcademy</li>
         <li><a href="https://elainexliu.com/projects.html">more things I've built</a></li>
     </ul>
     <h3 class="experience-category">thinking about things</h3>
     <ul class="bullet-list">
-        <li>Investment Intern @ Neo</li>
-        <li>Strategy and investing for deep tech, health, and consumer @ Thrive Capital</li>
-        <li>Schemed with Cohort 2 Admin @ Prod</li>
+        <li>2026: Investment Intern @ Neo</li>
+        <li>2024: Strategy and investing for deep tech, health, and consumer @ Thrive Capital</li>
+        <li>2023: Schemed with Cohort 2 Admin @ Prod</li>
     </ul>
 </div>
