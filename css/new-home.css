@@ -513,7 +513,7 @@ a:hover {
     display: flex;
     gap: 32px;
     margin-bottom: 56px;
-    padding-bottom: 24px;
+    padding-bottom: 40px;
     border-bottom: 1px solid var(--border-subtle);
     transition: all 0.3s ease;
 }
@@ -528,10 +528,10 @@ a:hover {
     background: var(--bg-secondary);
     margin-left: -32px;
     margin-right: -32px;
-    margin-top: -56px;
+    margin-top: -16px;
     padding-left: 32px;
     padding-right: 32px;
-    padding-top: 56px;
+    padding-top: 16px;
     border-radius: 12px;
 }
 
