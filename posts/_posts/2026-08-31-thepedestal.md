@@ -5,13 +5,13 @@ redirect_from: /posts/2026/08/31/thepedestal.html
 
 # Putting a project on The Pedestal
 
-I graduated from college this past spring, and I recently worked on a [project](/projects/_posts/2026-8-31-dawn.md) I had been thinking about since the end of high school. It was the first time in a while I gave myself time to work on something I thought I’d love building—a closed-loop, wearable intervention for tics and OCD/ADHD-driven body-focused repetitive behaviors.
+I graduated from college this past spring and spent some time afterward working on a [project]() I'd been thinking about since the end of high school. It was the first time in a while I gave myself time to work on something I thought I’d love building—a closed-loop, wearable intervention for tics and OCD/ADHD-driven body-focused repetitive behaviors.
 
 I spent years thinking about this problem space and building towards it throughout college, learning about hardware, healthcare, consumer, and more. The last time I ever made a “10-year plan” a couple years back, this project was Years 5-7 of that plan.
 
 And then I worked on it now.
 
-Something funny happens when you work on something you think was a calling but had been too scared/busy/<whatever other excuse> to do—when you work on something you had put on The Pedestal. Putting something on The Pedestal is more than just having a perfectionist view about it, or being too scared to approach it.
+Something funny happens when you work on something you think was a calling but had been too scared/busy/\<whatever other excuse\> to do—when you work on something you had put on The Pedestal. Putting something on The Pedestal is more than just having a perfectionist view about it, or being too scared to approach it.
 
 For me, putting this project on The Pedestal originally meant it was The Problem To Solve. But at some point, five years later, it became more of The Thing That Will Be Impressive To Make instead. After a while, putting this project on a pedestal made me feel like I had to make it impressive or complex enough to justify keeping it there for so long. And being around people working on technically impressive projects, I felt I had to do something comparable. How silly would it be to have the project I’ve been thinking about for years just wind up being a week-long side project? So I slowly began to feel that I needed to build the “better project,” instead of just building the thing I wanted in the first place.
 
