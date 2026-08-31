@@ -73,6 +73,6 @@ This is just what has been working for me! I will sing praise for Vitamin D (esp
 
 #### P.P.S: TYs
 
-The reflections I had and conclusions I came to while writing this weren't realized alone. I want to thank all the wonderful people who sat down with me for a much needed chat, who gave their thoughts, who shared their own experiences, and much more. Thanks to my dad and mom, jiejie, Michael, Gabriela, Marcus, Paya, Vincent, Emily, Akaash, Annmaria, Ameya, Jason, Odin, and Krystal.
+The reflections I had and conclusions I came to while writing this weren't realized alone. I want to thank all the wonderful people who sat down with me for a much needed chat, who gave their thoughts, who shared their own experiences, and much more. Thanks to my dad and mom, Claire Liu, Michael Hla, Gabriela Perez, Marcus Gomez, Paya, Vincent, Emily Neill, Akaash Kolluri, Annmaria Antony, Ameya Jadhav, Jason Gao, Odin Farkas, and Krystal Montgomery.
 
 On to the next:\)
