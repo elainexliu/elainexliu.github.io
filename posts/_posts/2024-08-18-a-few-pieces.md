@@ -1,5 +1,6 @@
 ---
 tags: thoughts
+redirect_from: /posts/2024/08/18/a-few-pieces.html
 ---
 
 ## A few pieces of advice from One Piece

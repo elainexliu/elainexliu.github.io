@@ -1,5 +1,6 @@
 ---
 tags: other
+redirect_from: /posts/2023/06/15/hello-world.html
 ---
 
 ## Hello world!

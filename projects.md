@@ -10,6 +10,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/dawn/wiredsetup.JPG" alt="dawn">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">August 2026 • Personal Project</div>
+        <div class="project-title">dawn: sensing for a closed-loop wearable intervention for tics and BFRBs</div>
+        <div class="project-description">to predict when body focused repetitive behaviors will happen</div>
+        <a href="/projects/2026/08/31/dawn.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/enclair/enclair.JPG" alt="enclair">
     </div>
     <div class="project-content">

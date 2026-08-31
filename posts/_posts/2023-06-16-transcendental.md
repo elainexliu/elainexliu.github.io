@@ -1,5 +1,6 @@
 ---
 tags: thoughts
+redirect_from: /posts/2023/06/16/transcendental.html
 ---
 
 ## Transcendental Simplicity in a Modern Capitalist America

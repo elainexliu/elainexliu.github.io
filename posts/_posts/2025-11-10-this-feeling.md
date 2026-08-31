@@ -1,5 +1,6 @@
 ---
 tags: thoughts
+redirect_from: /posts/2025/11/10/this-feeling.html
 ---
 
 ## This Feeling Again

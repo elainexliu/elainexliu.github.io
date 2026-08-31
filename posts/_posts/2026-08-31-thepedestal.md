@@ -1,5 +1,6 @@
 ---
 tags: reflections
+redirect_from: /posts/2026/08/31/thepedestal.html
 ---
 
 # Putting a project on The Pedestal
