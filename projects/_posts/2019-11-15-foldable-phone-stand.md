@@ -1,6 +1,7 @@
 ---
 project-type: fundamentals 
 type: project
+redirect_from: /projects/2019/11/15/foldable-phone-stand.html
 ---
 ## foldable phone stand
 #### look at your phone the way you want.

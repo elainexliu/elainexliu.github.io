@@ -1,6 +1,7 @@
 ---
 project-type: fundamentals 
 type: project
+redirect_from: /projects/2019/10/28/labyrinth-box.html
 ---
 ## labyrinth box
 #### the sleek box that locks and unlocks.

@@ -1,6 +1,7 @@
 ---
 project-type: hardware 
 type: project
+redirect_from: /projects/2025/09/15/improved.html
 ---
 ## improved: a tool for improv troupes
 

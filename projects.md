@@ -16,7 +16,7 @@ title: projects
         <div class="project-meta">August 2026 • Personal Project</div>
         <div class="project-title">dawn: sensing for a closed-loop wearable intervention for tics and BFRBs</div>
         <div class="project-description">to predict when body focused repetitive behaviors will happen</div>
-        <a href="/projects/2026/08/31/dawn.html" class="project-link">Read more</a>
+        <a href="/projects/dawn.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -28,7 +28,7 @@ title: projects
         <div class="project-meta">May 2026 • Class Project</div>
         <div class="project-title">en clair: a device for perceptual filtering</div>
         <div class="project-description">nothing is ever in plain language</div>
-        <a href="/projects/2026/05/31/enclair.html" class="project-link">Read more</a>
+        <a href="/projects/enclair.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ title: projects
         <div class="project-meta">May 2026 • Class Project</div>
         <div class="project-title">velocity: a Cambridge bike lane monitor</div>
         <div class="project-description">To identify bike lane usage and direction for future policy implementation</div>
-        <a href="/projects/2026/05/30/velocity.html" class="project-link">Read more</a>
+        <a href="/projects/velocity.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ title: projects
         <div class="project-meta">March 2026 • Class Project</div>
         <div class="project-title">f1d: a retro 1-dim racing game</div>
         <div class="project-description">Made a little something to spark some joy. Bigger things coming..</div>
-        <a href="/projects/2026/03/07/f1d.html" class="project-link">Read more</a>
+        <a href="/projects/f1d.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -64,7 +64,7 @@ title: projects
         <div class="project-meta">December 2025 • Class Project</div>
         <div class="project-title">TRACE FPGAinting: Three-Dimensional Rendering with an Augmented Camera Environment</div>
         <div class="project-description">An FPGA implementation of threedimensional drawing and rendering of an object path.</div>
-        <a href="/projects/2025/12/12/trace.html" class="project-link">Read more</a>
+        <a href="/projects/trace.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -76,7 +76,7 @@ title: projects
         <div class="project-meta">May 2025 • Class Project</div>
         <div class="project-title">Diff Amp: From the Ground Up</div>
         <div class="project-description">Designed, tested, taped and laid out a differential amplifier with 3246 V/mW figure of merit, along with a code-checker circuit.</div>
-        <a href="/projects/2025/05/20/diffamp.html" class="project-link">Read more</a>
+        <a href="/projects/diffamp.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -88,7 +88,7 @@ title: projects
         <div class="project-meta">September 2025 • Personal Project</div>
         <div class="project-title">improved: a game-selection tool for improv troupes</div>
         <div class="project-description">Saving your time to spend more playing and less choosing games for rehearsals and shows.</div>
-        <a href="/projects/2025/09/15/improved.html" class="project-link">Read more</a>
+        <a href="/projects/improved.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -100,7 +100,7 @@ title: projects
         <div class="project-meta">May 2025 • Class Project</div>
         <div class="project-title">EMG Detection: The Long (Analog) Way</div>
         <div class="project-description">Building electromyography detection systems from the ground up, exploring analog signal processing techniques for biomedical applications.</div>
-        <a href="/projects/2025/05/14/EMG.html" class="project-link">Read more</a>
+        <a href="/projects/EMG.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -112,7 +112,7 @@ title: projects
         <div class="project-meta">January 2025 • Consumer Health</div>
         <div class="project-title">dot: a device to stop obsessive skin picking</div>
         <div class="project-description">Designing interventions for body-focused repetitive behaviors through gentle interventions behavioral nudges.</div>
-        <a href="/projects/2025/01/18/dot.html" class="project-link">Read more</a>
+        <a href="/projects/dot.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -124,7 +124,7 @@ title: projects
         <div class="project-meta">December 2024 • Research</div>
         <div class="project-title">cUSD: a conformable ultrasound device</div>
         <div class="project-description">Developing flexible, wearable ultrasound technology for continuous health monitoring applications.</div>
-        <a href="/projects/2024/12/30/cusd.html" class="project-link">Read more</a>
+        <a href="/projects/cusd.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -136,7 +136,7 @@ title: projects
         <div class="project-meta">December 2024 • Consumer Hardware Design</div>
         <div class="project-title">alter ego: a silent speech device</div>
         <div class="project-description">New form factor discovery and parametric CAD for Alter Ego.</div>
-        <a href="/projects/2024/04/15/alter-ego.html" class="project-link">Read more</a>
+        <a href="/projects/alter-ego.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -148,7 +148,7 @@ title: projects
         <div class="project-meta">October 2024 • Web Application</div>
         <div class="project-title">amber: a gen z lip-picking detection web app</div>
         <div class="project-description">Computer vision application that helps users become aware of and reduce body-focused repetitive behaviors through real-time detection.</div>
-        <a href="/projects/2024/10/12/amber.html" class="project-link">Read more</a>
+        <a href="/projects/amber.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -160,7 +160,7 @@ title: projects
         <div class="project-meta">April 2022 • Consumer Hardware</div>
         <div class="project-title">deng long: a carbon monoxide sensing lamp</div>
         <div class="project-description">Ambient home safety device that provides elegant environmental monitoring through beautiful lighting design.</div>
-        <a href="/projects/2022/04/15/deng-long.html" class="project-link">Read more</a>
+        <a href="/projects/deng-long.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -172,7 +172,7 @@ title: projects
         <div class="project-meta">July 2020 • Consumer Hardware</div>
         <div class="project-title">navimap: an IoT interactive capacitive touch world map</div>
         <div class="project-description">Interactive world map using capacitive touch sensors to trigger location-based content and stories.</div>
-        <a href="/projects/2020/07/20/navimap.html" class="project-link">Read more</a>
+        <a href="/projects/navimap.html" class="project-link">Read more</a>
     </div>
 </div>
 
@@ -184,7 +184,7 @@ title: projects
         <div class="project-meta">July 2020 • Team Project</div>
         <div class="project-title">cupcake: an automatic batter dispenser machine</div>
         <div class="project-description">Mechanical engineering project creating precision dispensing systems for consistent baking results.</div>
-        <a href="/projects/2020/07/01/cupcake-batter.html" class="project-link">Read more</a>
+        <a href="/projects/cupcake-batter.html" class="project-link">Read more</a>
     </div>
 </div>
 

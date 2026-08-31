@@ -1,6 +1,7 @@
 ---
 project-type: app 
 type: project
+redirect_from: /projects/2020/06/30/remedium.html
 ---
 ## remedium: improved outcomes for chemotherapy patients
 #### a web app that helps improve treatment outcomes for chemotherapy patients.

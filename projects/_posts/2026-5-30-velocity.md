@@ -1,6 +1,7 @@
 ---
 project-type: hardware 
 type: project
+redirect_from: /projects/2026/05/30/velocity.html
 ---
 ## velocity: a Cambridge bike-lane monitor
 

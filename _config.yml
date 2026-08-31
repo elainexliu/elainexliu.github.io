@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
-permalink: /posts/:title.html
+permalink: /:categories/:title.html
 
 
 defaults:

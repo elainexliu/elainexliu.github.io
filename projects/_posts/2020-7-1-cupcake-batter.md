@@ -1,6 +1,7 @@
 ---
 project-type: hardware 
 type: project
+redirect_from: /projects/2020/07/01/cupcake-batter.html
 ---
 ## cupcake: an automatic cupcake batter dispenser
 #### because who has time to make cupcakes nowadays?

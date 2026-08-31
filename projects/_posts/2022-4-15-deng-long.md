@@ -1,6 +1,7 @@
 ---
 project-type: hardware 
 type: project
+redirect_from: /projects/2022/04/15/deng-long.html
 ---
 ## deng long: a carbon monoxide sensing lamp
 #### a Chinese lantern-inspired carbon monoxide sensor.
