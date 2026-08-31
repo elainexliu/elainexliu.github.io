@@ -10,7 +10,7 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
-        <img src="/assets/pics/project_pics/dawn/wiredsetup.JPG" alt="dawn">
+        <img src="/assets/pics/project_pics/dawn/wiredsetup.jpg" alt="dawn">
     </div>
     <div class="project-content">
         <div class="project-meta">August 2026 • Personal Project</div>
