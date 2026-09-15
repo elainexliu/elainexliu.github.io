@@ -70,6 +70,18 @@ title: projects
 
 <div class="project-item">
     <div class="project-image">
+        <img src="/assets/pics/project_pics/dot/dotv2cad.jpg" alt="Pose v0">
+    </div>
+    <div class="project-content">
+        <div class="project-meta">January 2025/2026 • Consumer Health</div>
+        <div class="project-title">dot: a device to stop obsessive skin picking</div>
+        <div class="project-description">Designing interventions for body-focused repetitive behaviors through gentle interventions behavioral nudges.</div>
+        <a href="/projects/dot.html" class="project-link">Read more</a>
+    </div>
+</div>
+
+<div class="project-item">
+    <div class="project-image">
         <img src="/assets/pics/project_pics/diffamp/thumbnail.jpg" alt="Diffamp layout">
     </div>
     <div class="project-content">
@@ -101,18 +113,6 @@ title: projects
         <div class="project-title">EMG Detection: The Long (Analog) Way</div>
         <div class="project-description">Building electromyography detection systems from the ground up, exploring analog signal processing techniques for biomedical applications.</div>
         <a href="/projects/EMG.html" class="project-link">Read more</a>
-    </div>
-</div>
-
-<div class="project-item">
-    <div class="project-image">
-        <img src="/assets/pics/project_pics/pose/thumbnail.jpg" alt="Pose v0">
-    </div>
-    <div class="project-content">
-        <div class="project-meta">January 2025 • Consumer Health</div>
-        <div class="project-title">dot: a device to stop obsessive skin picking</div>
-        <div class="project-description">Designing interventions for body-focused repetitive behaviors through gentle interventions behavioral nudges.</div>
-        <a href="/projects/dot.html" class="project-link">Read more</a>
     </div>
 </div>
 
