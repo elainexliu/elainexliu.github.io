@@ -7,7 +7,7 @@ layout: home
         <img src="/assets/pics/pfp.jpg" alt="Elaine Liu" class="profile-photo">
         <div class="intro-text">
             <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine!</p>
-            <p>I graduated from MIT with a degree in EECS (devices, circuits, and systems) and a minor in Political Science. I love designing and building useful hardware products + experiences that bring people joy.</p>
+            <p>I graduated from MIT with a degree in EECS (devices, circuits, and systems) and a minor in Political Science. I love building useful hardware products + experiences that bring people joy.</p>
             <p>Most recently, I built a closed-loop device to preventatively intervene compulsive behaviors. With the <a href="https://conformabledecoders.media.mit.edu/">Conformable Decoders</a> group and Canan Dagdeviren, I built conformable ultrasound drug-delivery devices for IVF hormone delivery. I also built products for clinicians at <a href="https://www.abbycare.org/">Abby Care</a>, a Sequoia and Thrive backed startup working to make family care possible.</p>
             <p>I’m constantly thinking about design, the role of play and entertainment, and the influence of tech on our labor + political economy.</p>
             <p>And I really love <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and <a href="https://www.instagram.com/roadkillbuffet/">improv</a>.</p>
