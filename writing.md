@@ -12,16 +12,16 @@ title: writing
         <a href="/posts/thepedestal.html" class="writing-title">Putting a project on The Pedestal</a>
     </li>
     <li class="writing-item">
+        <div class="writing-date">August 2026</div>
+        <a href="/posts/inputs.html" class="writing-title">Inputs</a>
+    </li>
+    <li class="writing-item">
         <div class="writing-date">March 2026</div>
         <a href="/posts/vanguard.html" class="writing-title">On Venture</a>
     </li>
     <li class="writing-item">
         <div class="writing-date">December 2025</div>
         <a href="/posts/fleabag.html" class="writing-title">Fleabag</a>
-    </li>
-    <li class="writing-item">
-        <div class="writing-date">December 2025</div>
-        <a href="/posts/inputs.html" class="writing-title">Inputs</a>
     </li>
     <li class="writing-item">
         <div class="writing-date">December 2025</div>
