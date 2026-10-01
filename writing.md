@@ -27,10 +27,10 @@ title: writing
         <div class="writing-date">December 2025</div>
         <a href="/posts/actors.html" class="writing-title">Acting as Inspiration</a>
     </li>
-    <li class="writing-item">
+    <!-- <li class="writing-item">
         <div class="writing-date">November 2025</div>
         <a href="/posts/who-we-are.html" class="writing-title">Who We Are</a>
-    </li>
+    </li> -->
     <li class="writing-item">
         <div class="writing-date">October 2025</div>
         <a href="/posts/improv.html" class="writing-title">Improv</a>
