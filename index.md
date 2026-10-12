@@ -10,7 +10,7 @@ layout: home
             <p>I graduated from MIT with a degree in EECS (devices, circuits, and systems) and a minor in Political Science. I love building useful hardware products + experiences that bring people joy.</p>
             <p>Most recently, I built a closed-loop device to preventatively intervene compulsive behaviors. With the <a href="https://conformabledecoders.media.mit.edu/">Conformable Decoders</a> group and Canan Dagdeviren, I built conformable ultrasound drug-delivery devices for IVF hormone delivery. I also built products for clinicians at <a href="https://www.abbycare.org/">Abby Care</a>, a Sequoia and Thrive backed startup working to make family care possible.</p>
             <p>I’m constantly thinking about design, the role of play and entertainment, and the influence of tech on our political + labor economy.</p>
-            <p>And I really love <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and improv (playing at MIT w/ <a href="https://www.instagram.com/roadkillbuffet/">RKB</a>, Second City in Chicago, and Endgames Theatre + BATS in SF)</a>.</p>
+            <p>And I really love <a href="https://www.instagram.com/eggshellsandoil/">art</a>, <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">reading</a>, and <a href="https://elainexliu.com/posts/improv.html">improv</a> (playing at MIT w/ <a href="https://www.instagram.com/roadkillbuffet/">RKB</a>, Second City in Chicago, and Endgames Theatre + BATS in SF)</p>
         </div>
     </div>
 </div>
