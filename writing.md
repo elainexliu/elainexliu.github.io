@@ -52,6 +52,10 @@ title: writing
         <a href="/posts/transcendental.html" class="writing-title">Transcendental Simplicity in a Modern Capitalist America</a>
     </li>
     <li class="writing-item">
+        <div class="writing-date">April 2004</div>
+        <a href="/posts/me.html" class="writing-title">Me</a>
+    </li>
+    <li class="writing-item">
         <div class="writing-date">January 2025</div>
         <a href="/posts/hello-world.html" class="writing-title">Hello world!</a>
     </li>
