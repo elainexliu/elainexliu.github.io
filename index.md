@@ -6,7 +6,7 @@ layout: home
     <div class="intro-with-photo">
         <img src="/assets/pics/pfp.jpg" alt="Elaine Liu" class="profile-photo">
         <div class="intro-text">
-            <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">hey, i'm elaine.</p>
+            <p style="font-family: 'Newsreader', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 20px;">Hi, I'm Elaine.</p>
             <p>I’m a builder and <a href="https://elainexliu.com/posts/improv.html">improviser</a> in San Francisco. I am curious about why people are the way they are, how we got here, and where we’re headed as technology changes the way we live, work, and connect. I make things for people, and I’m happiest when something I made lands and changes how we live for the better.</p>
             <p>Currently, I’m building at [*] and playing improv at BATS. I also <a href="https://www.goodreads.com/user/show/164429042-elaine-liu">read</a> and <a href="https://www.instagram.com/eggshellsandoil/">paint</a> a lot. Previously, I built a closed-loop device to interrupt compulsive behaviors, studied EECS and political science at MIT, developed medical electronics with the <a href="https://conformabledecoders.media.mit.edu/">Conformable Decoders</a> group and clinical products at <a href="https://www.abbycare.org/">Abby Care</a>, and performed with <a href="https://www.instagram.com/roadkillbuffet/">RKB</a> and at Second City in Chicago.</p>
         </div>
